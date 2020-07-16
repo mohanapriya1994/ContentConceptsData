@@ -1,3 +1,3 @@
 # ContentConceptsData
 
-JSON Data
+Markdown files
