@@ -8,17 +8,17 @@ sitemapList: [
       {
         id: 1,
         title: "Our Editors",
-        link: "/"
+        link: "/about/"
       },
       {
         id: 2,
         title: "Pricing",
-        link: "/"
+        link: "/pricing/"
       },
       {
         id: 3,
         title: "Contact",
-        link: "/"
+        link: "/contact/"
       }
     ]
   },
@@ -29,42 +29,42 @@ sitemapList: [
       {
         id: 1,
         title: "Website Content",
-        link: "/"
+        link: "/services/website_content"
       },
       {
         id: 2,
         title: "Marketing Collateral",
-        link: "/"
+        link: "/services/marketing_collateral"
       },
       {
         id: 3,
         title: "Resume Writing",
-        link: "/"
+        link: "/services/resume_writing"
       },
       {
         id: 4,
         title: "UI Content / Microcopy",
-        link: "/"
+        link: "/services/ui_microcopy"
       },
       {
         id: 5,
         title: "Blog Content",
-        link: "/"
+        link: "/services/blog_content"
       },
       {
         id: 6,
         title: "Social Media Content",
-        link: "/"
+        link: "/services/social_media_content"
       },
       {
         id: 7,
         title: "Adwords",
-        link: "/"
+        link: "/services/adwords"
       },
       {
         id: 8,
         title: "Facebook Ads",
-        link: "/"
+        link: "/services/facebook_ads"
       }
     ]
   },
@@ -75,47 +75,47 @@ sitemapList: [
       {
         id: 1,
         title: "Manuscript Editing",
-        link: "/"
+        link: "/services/manuscript_editing"
       },
       {
         id: 2,
         title: "Thesis Editing",
-        link: "/"
+        link: "/services/thesis_editing"
       },
       {
         id: 3,
         title: "Proposal Editing",
-        link: "/"
+        link: "/services/proposal_editing"
       },
       {
         id: 4,
         title: "Technical Reports",
-        link: "/"
+        link: "/services/academic_technical_reports"
       },
       {
         id: 5,
         title: "Essay Editing",
-        link: "/"
+        link: "/services/essay_editing"
       },
       {
         id: 6,
         title: "Letter Editing",
-        link: "/"
+        link: "/services/letter_editing"
       },
       {
         id: 7,
         title: "ESL Editing",
-        link: "/"
+        link: "/services/esl_editing"
       },
       {
         id: 8,
         title: "Book Editing",
-        link: "/"
+        link: "/services/book_editing"
       },
       {
         id: 9,
         title: "Resume Editing",
-        link: "/"
+        link: "/services/resume_editing"
       }
     ]
   },
@@ -126,47 +126,47 @@ sitemapList: [
       {
         id: 1,
         title: "Propsals",
-        link: "/"
+        link: "/services/propsals"
       },
       {
         id: 2,
         title: "Business Plans",
-        link: "/"
+        link: "/services/business_plans"
       },
       {
         id: 3,
         title: "Marketing Collateral",
-        link: "/"
+        link: "/services/business_marketing_collateral"
       },
       {
         id: 4,
         title: "Newsletters",
-        link: "/"
+        link: "/services/newsletters"
       },
       {
         id: 5,
         title: "Ad copies",
-        link: "/"
+        link: "/services/adcopies"
       },
       {
         id: 6,
         title: "Website Content",
-        link: "/"
+        link: "/services/business_website_content"
       },
       {
         id: 7,
         title: "White Papers",
-        link: "/"
+        link: "/services/white_papers"
       },
       {
         id: 8,
         title: "Presentations",
-        link: "/"
+        link: "/services/presentations"
       },
       {
         id: 9,
         title: "Biographies",
-        link: "/"
+        link: "/services/biographies"
       }
     ]
   },
@@ -177,22 +177,43 @@ sitemapList: [
       {
         id: 1,
         title: "User Manuals",
-        link: "/"
+        link: "/services/user_manuals"
       },
       {
         id: 2,
         title: "Instructional Gids",
-        link: "/"
+        link: "/services/instructional_guides"
       },
       {
         id: 3,
         title: "Website Contents",
-        link: "/"
+        link: "/services/technical_website_contents"
       },
       {
         id: 4,
         title: "Technical Reports",
-        link: "/"
+        link: "/services/technical_reports"
+      }
+    ]
+  },
+  {
+    id: 6,
+    title: "Consulting",
+    sitemap: [
+      {
+        id: 1,
+        title: "Content Strategy",
+        link: "/services/content_strategy"
+      },
+      {
+        id: 2,
+        title: "Digital Marketing",
+        link: "/services/digital_marketing"
+      },
+      {
+        id: 3,
+        title: "Social Media",
+        link: "/services/social_media"
       }
     ]
   }
