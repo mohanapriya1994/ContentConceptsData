@@ -22,7 +22,7 @@ customers: [
     name: "Dr Shreya Sharma",
     comment: "Very well organized and authentic manuscript proof reading and editing services in India. Timely work with valuable input improved the writing material",
     role: "Data Scientist",
-    company: "Indian Institue of Management,
+    company: "Indian Institue of Management",
     image: "../assets/shreya.png"
   }
 ]
