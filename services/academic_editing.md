@@ -6,7 +6,10 @@ message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
     title: "Starts from",
-    price: "<span>INR 1.50</span>/word"
+    price: {
+      inr: "<span>INR 1.50</span>/word",
+      usd: "<span>USD 0.03</span>/word",
+    }
   },
   tagContent: "No express fee, quick delivery",
   content: "Publish with confidence"
