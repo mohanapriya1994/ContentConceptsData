@@ -6,7 +6,10 @@ message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
     title: "Starting from",
-    price: "<span>INR 3500 or USD 50</span>"
+    price: {
+      inr: "<span>INR 3500</span>",
+      usd: "<span>USD 50</span>"
+    }
   },
   tagContent: "Technology. + Human service",
   content: "Reduce similarity, ready for publishing"
