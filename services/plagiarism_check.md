@@ -1,8 +1,8 @@
 ---
-title: "Resume Editing"
-highlight: "Make a first & best impression"
-description: "Recruiters spend just 20 seconds to review a resume to decide whether to select you for the next stage or reject your resume. Therefore, your resume or CV should immediately catch the attention of the prospective employer. Let your resume editors craft out that perfect resume that wins"
-message: "Not happy with edit? <span>100% refund without any condition</span>"
+title: "Plagiarism Check"
+highlight: "Powered by Technology + Human"
+description: "You read it right. Our plagiarism check is powered by industry leading software followed by a review by our editors to identify the nature of simlarity and recommendation on further work "
+message: "Significant reduction in similarity<span>Talk to us for more details</span>"
 priceCard: {
   pricing: {
     title: "Starting from",
@@ -14,28 +14,28 @@ priceCard: {
 features: [
   {
     id: 1,
-    title: "Industry vocabulary that suits your target role"
+    title: "Industry leading software for checking"
   },
   {
     id: 2,
-    title: "High impact resume structure"
+    title: "Human review by editors"
   },
   {
     id: 3,
-    title: "Clear, consice and crisp writing"
+    title: "Detailed report on similarity"
   },
   {
     id: 4,
-    title: "Experienced Resume Editors"
+    title: "Recommendations to reduce similarity"
   },
   {
     id: 5,
-    title: "Flawless language"
+    title: "Same day delivery"
   }
 ]
 editingLevels: {
   title: "Different levels of editing",
-  subHeading: "Because each resume is unique",
+  subHeading: "Because each author is unique",
   levelTypes: [
     {
       id: 1,
@@ -143,34 +143,34 @@ editingSample: {
   ]
 }
 editingHighlights: {
-  title: "Highlights of our Resume Editing service",
+  title: "Highlights of our manuscript editing services",
   highlights: [
     {
       id: 1,
       title: "Affordable Prices",
-      description: "Our resume editing fee is one of the best in the industry for the level of quality work we offer from our trusted editors.",
+      description: "Our manuscript editing fee is one of the best in the industry for the level of quality work we offer from our trusted PhD and native English editors.",
       image: "../assets/affordable.svg"
     },
     {
       id: 2,
       title: "Superior Support",
-      description: "You can talk to your resume editor until you are satisfied with our editing service, get your queries answered via email or chat and send your resume after review for further check.",
+      description: "You can talk to your manuscript editor until you are satisfied with our editing service, get your queries answered via email or chat and send your manuscript after review from journal editor for further check.",
       image: "../assets/support.svg"
     },
     {
       id: 3,
       title: "Confidentiality",
-      description: "We ensure your resumes are handled with utmost care. We can sign NDA if necessary.",
+      description: "We ensure your documents are handled with utmost care. We can sign NDA if necessary.",
       image: "../assets/confidential.svg"
     },
     {
       id: 4,
       title: "Secure transaction",
-      description: "Your resume as wells as payment is handled by our secure website which has passed the best level of security testing in the industry.",
+      description: "Your documents as wells as payment is handled by our secure website which has passed the best level of security testing in the industry.",
       image: "../assets/transaction.svg"
     }
   ]
 }
-key: "resume_editing"
-parentType: "academic"
+key: "plagiarism_check"
+parentType: "technical"
 ---

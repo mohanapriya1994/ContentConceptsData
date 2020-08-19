@@ -22,56 +22,11 @@ sitemapList: [
       }
     ]
   },
+  
   {
     id: 2,
-    title: "Content Development",
-    sitemap: [
-      {
-        id: 1,
-        title: "Website Content",
-        link: "/services/website_content"
-      },
-      {
-        id: 2,
-        title: "Marketing Collateral",
-        link: "/services/marketing_collateral"
-      },
-      {
-        id: 3,
-        title: "Resume Writing",
-        link: "/services/resume_writing"
-      },
-      {
-        id: 4,
-        title: "UI Content / Microcopy",
-        link: "/services/ui_microcopy"
-      },
-      {
-        id: 5,
-        title: "Blog Content",
-        link: "/services/blog_content"
-      },
-      {
-        id: 6,
-        title: "Social Media Content",
-        link: "/services/social_media_content"
-      },
-      {
-        id: 7,
-        title: "Adwords",
-        link: "/services/adwords"
-      },
-      {
-        id: 8,
-        title: "Facebook Ads",
-        link: "/services/facebook_ads"
-      }
-    ]
-  },
-  {
-    id: 3,
     title: "Academic Editing",
-    sitemap: [
+        sitemap: [
       {
         id: 1,
         title: "Manuscript Editing",
@@ -89,8 +44,8 @@ sitemapList: [
       },
       {
         id: 4,
-        title: "Technical Reports",
-        link: "/services/academic_technical_reports"
+        title: "Academic Editing",
+        link: "/services/academic_editing"
       },
       {
         id: 5,
@@ -120,23 +75,95 @@ sitemapList: [
     ]
   },
   {
+    id: 3,
+    title: "Publication Support",
+    sitemap: [
+      {
+        id: 1,
+        title: "Journal Selection",
+        link: "/services/journal_selection"
+      },
+      {
+        id: 2,
+        title: "Journal Submission",
+        link: "/services/journal_submission"
+      },
+      {
+        id: 3,
+        title: "Pre-submission Review",
+        link: "/services/presubmission_review"
+      },
+      {
+        id: 4,
+        title: "Manuscript Re-submission",
+        link: "/services/manuscript_resubmission"
+      },
+      {
+        id: 5,
+        title: "Publication Services",
+        link: "/services/publication_services"
+      },
+      {
+        id: 6,
+        title: "Illustration & Artwork",
+        link: "/services/illustration_artwork"
+      },
+      {
+        id: 7,
+        title: "Manuscript Rewriting",
+        link: "/services/manuscript_rewriting"
+      },
+      {
+        id: 8,
+        title: "Manuscript Formatting",
+        link: "/services/manuscript_formatting"
+      }
+    ]
+  },
+  {
     id: 4,
+    title: "Plagiarism Check",
+    sitemap: [
+      {
+        id: 1,
+        title: "Plagiarism Check",
+        link: "/services/plagiarism_check"
+      },
+      {
+        id: 2,
+        title: "Manuscript Similarity Check",
+        link: "/services/similarity_check"
+      },
+      {
+        id: 3,
+        title: "Plagiarism Editing",
+        link: "/services/plagiarism_editing"
+      },
+      {
+        id: 4,
+        title: "Technical Reports",
+        link: "/services/technical_reports"
+      }
+    ]
+  },
+  {
+    id: 5,
     title: "Business Editing",
     sitemap: [
       {
         id: 1,
-        title: "Propsals",
-        link: "/services/propsals"
+        title: "Business Proposal",
+        link: "/services/business_proposal"
       },
       {
         id: 2,
-        title: "Business Plans",
-        link: "/services/business_plans"
+        title: "Business Document Editing",
+        link: "/services/business_editing"
       },
       {
         id: 3,
-        title: "Marketing Collateral",
-        link: "/services/business_marketing_collateral"
+        title: "Marketing Communications",
+        link: "/services/marketing_communications_editing"
       },
       {
         id: 4,
@@ -150,8 +177,8 @@ sitemapList: [
       },
       {
         id: 6,
-        title: "Website Content",
-        link: "/services/business_website_content"
+        title: "Website Copy Editing",
+        link: "/services/website_copy_editing"
       },
       {
         id: 7,
@@ -170,52 +197,5 @@ sitemapList: [
       }
     ]
   },
-  {
-    id: 5,
-    title: "Technical Editing",
-    sitemap: [
-      {
-        id: 1,
-        title: "User Manuals",
-        link: "/services/user_manuals"
-      },
-      {
-        id: 2,
-        title: "Instructional Gids",
-        link: "/services/instructional_guides"
-      },
-      {
-        id: 3,
-        title: "Website Contents",
-        link: "/services/technical_website_contents"
-      },
-      {
-        id: 4,
-        title: "Technical Reports",
-        link: "/services/technical_reports"
-      }
-    ]
-  },
-  {
-    id: 6,
-    title: "Consulting",
-    sitemap: [
-      {
-        id: 1,
-        title: "Content Strategy",
-        link: "/services/content_strategy"
-      },
-      {
-        id: 2,
-        title: "Digital Marketing",
-        link: "/services/digital_marketing"
-      },
-      {
-        id: 3,
-        title: "Social Media",
-        link: "/services/social_media"
-      }
-    ]
-  }
 ]
 ---

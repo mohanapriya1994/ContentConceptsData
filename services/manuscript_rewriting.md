@@ -1,41 +1,41 @@
 ---
-title: "Resume Editing"
-highlight: "Make a first & best impression"
-description: "Recruiters spend just 20 seconds to review a resume to decide whether to select you for the next stage or reject your resume. Therefore, your resume or CV should immediately catch the attention of the prospective employer. Let your resume editors craft out that perfect resume that wins"
-message: "Not happy with edit? <span>100% refund without any condition</span>"
+title: "Manuscript Rewriting"
+highlight: "Get it Write"
+description: "Manuscript rewriting is done when the writing or English language of the paper is poor and most often rejected by journals. Or you may want to convert your paper to thesis or vice versa. Manuscript rewriting involves extensively rewriting the entire sentence or paragraphs or sections of the manuscript. This is done by our senior manuscript editors who have expereince of rewriting more than 1000 manuscripts across different subjects - Science, Technnology, Medicine and Business"
+message: "Convert your ideas to writing <span>Research papers, thesis, dissertation</span>"
 priceCard: {
   pricing: {
     title: "Starting from",
-    price: "<span>$0.03</span>/word"
+    price: "<span>$0.08</span>/word"
   },
-  tagContent: "Edited by qualified subject matter experts",
-  content: "Don't need major revisions before journal submission?"
+  tagContent: "Affordable & Fast",
+  content: "Publish with confidence"
 }
 features: [
   {
     id: 1,
-    title: "Industry vocabulary that suits your target role"
+    title: "Review of overall structure of manuscript"
   },
   {
     id: 2,
-    title: "High impact resume structure"
+    title: "Rewriting at word, sentence, paragraph and section levels"
   },
   {
     id: 3,
-    title: "Clear, consice and crisp writing"
+    title: "Clear, concise and complete writing"
   },
   {
     id: 4,
-    title: "Experienced Resume Editors"
+    title: "PhD editors and native English editors available"
   },
   {
     id: 5,
-    title: "Flawless language"
+    title: "Free followup support"
   }
 ]
 editingLevels: {
   title: "Different levels of editing",
-  subHeading: "Because each resume is unique",
+  subHeading: "Because each author is unique",
   levelTypes: [
     {
       id: 1,
@@ -143,34 +143,34 @@ editingSample: {
   ]
 }
 editingHighlights: {
-  title: "Highlights of our Resume Editing service",
+  title: "Benefits of our Manuscript  Rewriting service",
   highlights: [
     {
       id: 1,
       title: "Affordable Prices",
-      description: "Our resume editing fee is one of the best in the industry for the level of quality work we offer from our trusted editors.",
+      description: "Our Manuscript  Rewriting service fee is one of the best in the industry for the level of quality work we offer from our trusted PhD and native English editors.",
       image: "../assets/affordable.svg"
     },
     {
       id: 2,
       title: "Superior Support",
-      description: "You can talk to your resume editor until you are satisfied with our editing service, get your queries answered via email or chat and send your resume after review for further check.",
+      description: "You can talk to your manuscript editor until you are satisfied with our rewriting service, get your queries answered via email or chat and send your manuscript after review from journal editor for further check.",
       image: "../assets/support.svg"
     },
     {
       id: 3,
       title: "Confidentiality",
-      description: "We ensure your resumes are handled with utmost care. We can sign NDA if necessary.",
+      description: "We ensure your documents are handled with utmost care. We can sign NDA if necessary.",
       image: "../assets/confidential.svg"
     },
     {
       id: 4,
       title: "Secure transaction",
-      description: "Your resume as wells as payment is handled by our secure website which has passed the best level of security testing in the industry.",
+      description: "Your documents as wells as payment is handled by our secure website which has passed the best level of security testing in the industry.",
       image: "../assets/transaction.svg"
     }
   ]
 }
-key: "resume_editing"
-parentType: "academic"
+key: "manuscript_rewriting"
+parentType: "content_development"
 ---

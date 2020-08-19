@@ -1,7 +1,13 @@
 ---
-title: "Resume Editing"
-highlight: "Make a first & best impression"
-description: "Recruiters spend just 20 seconds to review a resume to decide whether to select you for the next stage or reject your resume. Therefore, your resume or CV should immediately catch the attention of the prospective employer. Let your resume editors craft out that perfect resume that wins"
+title: "Marketing Communications"
+highlight: "Are you content?"
+description: "Have a fresh pair of eyes look at your marketing communications and correct the little flaws or the major thing that you have overlooked. Most often, as an author you would be so close to the content that you may not have the readers’ perspective."
+
+description: "Marketing Communications is all about saying the right thing at the right place using very little content. While writing the copy it is difficult to write in short, but a skilled business communications editor can make the content crisper and complete."
+
+description: "We have got a talented team of editors who are adept in marketing communications and make your written communications do the work."
+
+description: "What will you receive?"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
@@ -14,28 +20,28 @@ priceCard: {
 features: [
   {
     id: 1,
-    title: "Industry vocabulary that suits your target role"
+    title: "Edited copy with clear and concise content"
   },
   {
     id: 2,
-    title: "High impact resume structure"
+    title: "Changes and recommendations to improve the flow, structure, tone and clarity"
   },
   {
     id: 3,
-    title: "Clear, consice and crisp writing"
+    title: "Two versions of documents - one with track changes and one clean copy"
   },
   {
     id: 4,
-    title: "Experienced Resume Editors"
+    title: "A short editing report on what work is done and what should be addressed "
   },
   {
     id: 5,
-    title: "Flawless language"
+    title: "Free followup revisions"
   }
 ]
 editingLevels: {
   title: "Different levels of editing",
-  subHeading: "Because each resume is unique",
+  subHeading: "Because each author is unique",
   levelTypes: [
     {
       id: 1,
@@ -120,7 +126,7 @@ editingLevels: {
   ]
 }
 editingSample: {
-  title: "Editing Sample",
+  title: "Marketing Communications Editing Sample",
   samples: [
     {
       id: 1,
@@ -131,46 +137,46 @@ editingSample: {
     {
       id: 2,
       title: "Substantive Editing",
-      description: "Line by line editing for language, readibility nad technical learning improvement",
+      description: "Line by line editing for language, readibility and technical learning improvement",
       image: "../assets/substantive_editing.png"
     },
     {
       id: 3,
       title: "Developmental Editing",
-      description: "Line by line editing for language, readibility nad technical learning improvement",
+      description: "Line by line editing for language, readibility and technical learning improvement",
       image: "../assets/substantive_editing.png"
     }
   ]
 }
 editingHighlights: {
-  title: "Highlights of our Resume Editing service",
+  title: "Highlights of our Marketing Communications Editing service",
   highlights: [
     {
       id: 1,
       title: "Affordable Prices",
-      description: "Our resume editing fee is one of the best in the industry for the level of quality work we offer from our trusted editors.",
+      description: "Our Marketing Communications Editing fee is one of the best in the industry for the level of quality work we offer from our trusted Marketing Communications editors.",
       image: "../assets/affordable.svg"
     },
     {
       id: 2,
       title: "Superior Support",
-      description: "You can talk to your resume editor until you are satisfied with our editing service, get your queries answered via email or chat and send your resume after review for further check.",
+      description: "You can talk to your Marketing Communications editor until you are satisfied with our editing service, get your queries answered via email or chat and send your manuscript after review for further check.",
       image: "../assets/support.svg"
     },
     {
       id: 3,
       title: "Confidentiality",
-      description: "We ensure your resumes are handled with utmost care. We can sign NDA if necessary.",
+      description: "We ensure your documents are handled with utmost care. We can sign NDA if necessary.",
       image: "../assets/confidential.svg"
     },
     {
       id: 4,
       title: "Secure transaction",
-      description: "Your resume as wells as payment is handled by our secure website which has passed the best level of security testing in the industry.",
+      description: "Your documents as wells as payment is handled by our secure website which has passed the best level of security testing in the industry.",
       image: "../assets/transaction.svg"
     }
   ]
 }
-key: "resume_editing"
-parentType: "academic"
+key: "marketing_communications_editing"
+parentType: "business"
 ---

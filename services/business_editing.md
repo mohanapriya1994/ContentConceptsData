@@ -1,11 +1,13 @@
 ---
-title: "Resume Editing"
-highlight: "Make a first & best impression"
-description: "Recruiters spend just 20 seconds to review a resume to decide whether to select you for the next stage or reject your resume. Therefore, your resume or CV should immediately catch the attention of the prospective employer. Let your resume editors craft out that perfect resume that wins"
+title: "Business Document Editing"
+highlight: "Take our word"
+description: "Does your content work? Whether you create website content or white paper or blogpost or product presentation, each of these has a purpose - convey the right message at the right place. But, most often content is not tailored to the medium or audience. 
+
+Our editors enhance your business writing and make it work for you. Business Document Editing is not just grammar and spell check. Our Business Document Editor,"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
-    title: "Starting from",
+    title: "Starts from",
     price: "<span>$0.03</span>/word"
   },
   tagContent: "Edited by qualified subject matter experts",
@@ -14,28 +16,28 @@ priceCard: {
 features: [
   {
     id: 1,
-    title: "Industry vocabulary that suits your target role"
+    title: "1. Analyses overall structure and purpose"
   },
   {
     id: 2,
-    title: "High impact resume structure"
+    title: "2. Edits for clarity, conciseness and completeness"
   },
   {
     id: 3,
-    title: "Clear, consice and crisp writing"
+    title: "3. Recommends additional information or section"
   },
   {
     id: 4,
-    title: "Experienced Resume Editors"
+    title: "4. Suggests relevant title or creates title and headings"
   },
   {
     id: 5,
-    title: "Flawless language"
+    title: "Makes your content crisp and impactful"
   }
 ]
 editingLevels: {
   title: "Different levels of editing",
-  subHeading: "Because each resume is unique",
+  subHeading: "Because each author is unique",
   levelTypes: [
     {
       id: 1,
@@ -120,7 +122,7 @@ editingLevels: {
   ]
 }
 editingSample: {
-  title: "Editing Sample",
+  title: "Business Editing Sample",
   samples: [
     {
       id: 1,
@@ -143,34 +145,34 @@ editingSample: {
   ]
 }
 editingHighlights: {
-  title: "Highlights of our Resume Editing service",
+  title: "Benefits of our Business Document Editing",
   highlights: [
     {
       id: 1,
       title: "Affordable Prices",
-      description: "Our resume editing fee is one of the best in the industry for the level of quality work we offer from our trusted editors.",
+      description: "Our business document editing fee is one of the best in the industry for the level of quality work we offer.",
       image: "../assets/affordable.svg"
     },
     {
       id: 2,
       title: "Superior Support",
-      description: "You can talk to your resume editor until you are satisfied with our editing service, get your queries answered via email or chat and send your resume after review for further check.",
+      description: "You can talk to your Business Document Editor until you are satisfied with our editing service, get your queries answered via email or chat and send your manuscript after review from the author for further check.",
       image: "../assets/support.svg"
     },
     {
       id: 3,
       title: "Confidentiality",
-      description: "We ensure your resumes are handled with utmost care. We can sign NDA if necessary.",
+      description: "We ensure your documents are handled with utmost care. We can sign NDA if necessary.",
       image: "../assets/confidential.svg"
     },
     {
       id: 4,
       title: "Secure transaction",
-      description: "Your resume as wells as payment is handled by our secure website which has passed the best level of security testing in the industry.",
+      description: "Your documents as wells as payment is handled by our secure website which has passed the best level of security testing in the industry.",
       image: "../assets/transaction.svg"
     }
   ]
 }
-key: "resume_editing"
-parentType: "academic"
+key: "business_editing"
+parentType: "business"
 ---

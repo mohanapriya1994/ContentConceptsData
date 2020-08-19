@@ -1,41 +1,55 @@
 ---
-title: "Resume Editing"
-highlight: "Make a first & best impression"
-description: "Recruiters spend just 20 seconds to review a resume to decide whether to select you for the next stage or reject your resume. Therefore, your resume or CV should immediately catch the attention of the prospective employer. Let your resume editors craft out that perfect resume that wins"
-message: "Not happy with edit? <span>100% refund without any condition</span>"
+title: "Website Copy Editing"
+highlight: "Content that clicks"
+description: "Website content is not just having correct grammar and impressive vocabulary. More than anything, it should work. 
+
+Now that you are here, we assume you are not convinced with the content of your website or blogpost. You are not alone. We have reviewed and edited more than 10000 pages of website content for startups and SMEs and we know what works and how to make it work. 
+
+Our website copy editors and content reviewers analyse the scope, target audience, geography and industry so that they understand it better to create engaging content that works for you. 
+
+Here is what our talented  Website Content Copy Editors do:"
+message: "Make content work for you<span>Clear, concise, and compelling</span>"
 priceCard: {
   pricing: {
     title: "Starting from",
-    price: "<span>$0.03</span>/word"
+    price: "<span>INR 3.00</span>/word"
   },
-  tagContent: "Edited by qualified subject matter experts",
-  content: "Don't need major revisions before journal submission?"
+  tagContent: "Afforable, Actionable Content",
+  content: "Tailored to your target audience"
 }
 features: [
   {
     id: 1,
-    title: "Industry vocabulary that suits your target role"
+    title: "Understand what your target audience want from each page and edit accordingly"
   },
   {
     id: 2,
-    title: "High impact resume structure"
+    title: "Make your content simple and easier to read"
   },
   {
     id: 3,
-    title: "Clear, consice and crisp writing"
+    title: "Edit to capture reader’s attention in short span (we all have attention deficiency)"
   },
   {
     id: 4,
-    title: "Experienced Resume Editors"
+    title: "Adapt the content for mobile, tablet and desktop"
   },
   {
     id: 5,
-    title: "Flawless language"
+    title: "Bring the calls to actions clearly on the copy"
+  },
+  {
+    id: 6,
+    title: "Recommend further actions and improvements - images, illustrations"
+  },
+  {
+    id: 7,
+    title: "Suggest page titles, keywords and meta descriptions"
   }
 ]
 editingLevels: {
-  title: "Different levels of editing",
-  subHeading: "Because each resume is unique",
+  title: "Different levels of website copy editing",
+  subHeading: "Because each author is unique",
   levelTypes: [
     {
       id: 1,
@@ -120,7 +134,7 @@ editingLevels: {
   ]
 }
 editingSample: {
-  title: "Editing Sample",
+  title: "Website Copy Editing Sample",
   samples: [
     {
       id: 1,
@@ -143,34 +157,34 @@ editingSample: {
   ]
 }
 editingHighlights: {
-  title: "Highlights of our Resume Editing service",
+  title: "Highlights of our Website Copy Editing service",
   highlights: [
     {
       id: 1,
       title: "Affordable Prices",
-      description: "Our resume editing fee is one of the best in the industry for the level of quality work we offer from our trusted editors.",
+      description: "Our Website Copy Editing fee is one of the best in the industry for the level of quality work we offer from our trusted Website Copy  Editors.",
       image: "../assets/affordable.svg"
     },
     {
       id: 2,
       title: "Superior Support",
-      description: "You can talk to your resume editor until you are satisfied with our editing service, get your queries answered via email or chat and send your resume after review for further check.",
+      description: "You can talk to your Website Copy Editor until you are satisfied with our editing service, get your queries answered via email or chat and send your copy after review for further check.",
       image: "../assets/support.svg"
     },
     {
       id: 3,
       title: "Confidentiality",
-      description: "We ensure your resumes are handled with utmost care. We can sign NDA if necessary.",
+      description: "We ensure your documents are handled with utmost care. We can sign NDA if necessary.",
       image: "../assets/confidential.svg"
     },
     {
       id: 4,
       title: "Secure transaction",
-      description: "Your resume as wells as payment is handled by our secure website which has passed the best level of security testing in the industry.",
+      description: "Your documents as wells as payment is handled by our secure website which has passed the best level of security testing in the industry.",
       image: "../assets/transaction.svg"
     }
   ]
 }
-key: "resume_editing"
-parentType: "academic"
+key: "website_copy_editing"
+parentType: "business"
 ---
