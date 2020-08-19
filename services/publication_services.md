@@ -14,7 +14,8 @@ priceCard: {
 features: [
   {
     id: 1,
-    title: "Journal Selection"
+    title: "Journal Selection",
+    link: "/services/journal_selection"
   },
   {
     id: 2,
