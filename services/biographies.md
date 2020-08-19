@@ -174,7 +174,7 @@ editingHighlights: {
     }
   ]
 }
-process: {
+serviceProcess: {
   title: "How it works?",
   steps: [
     {
