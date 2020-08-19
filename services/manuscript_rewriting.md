@@ -6,7 +6,10 @@ message: "Convert your ideas to writing <span>Research papers, thesis, dissertat
 priceCard: {
   pricing: {
     title: "Starting from",
-    price: "<span>$0.08</span>/word"
+    price: {
+      inr: "",
+      usd: "<span>$0.08</span>/word"
+    }
   },
   tagContent: "Affordable & Fast",
   content: "Publish with confidence"

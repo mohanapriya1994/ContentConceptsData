@@ -6,7 +6,10 @@ message: "Significant reduction in similarity<span>Talk to us for more details</
 priceCard: {
   pricing: {
     title: "Starting from",
-    price: "<span>$0.03</span>/word"
+    price: {
+      inr: "",
+      usd: "<span>$0.03</span>/word"
+    }
   },
   tagContent: "Edited by qualified subject matter experts",
   content: "Don't need major revisions before journal submission?"

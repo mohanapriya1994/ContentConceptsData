@@ -6,7 +6,10 @@ message: "Not happy with illustration? <span>100% refund without any condition</
 priceCard: {
   pricing: {
     title: "Starts from",
-    price: "<span>$100</span>"
+    price: {
+      inr: "",
+      usd: "<span>$100</span>"
+    }
   },
   tagContent: "Affordable artwork",
   content: "Illustrations, charts, photos, infographics"

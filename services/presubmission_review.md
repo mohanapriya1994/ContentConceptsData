@@ -6,7 +6,10 @@ message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
     title: "Starting from",
-    price: "<span>$150</span>"
+    price: {
+      inr: "",
+      usd: "<span>$150</span>"
+    }
   },
   tagContent: "Affordable & Fast Service",
   content: "Reviewers with Science, Cell Biology, Nature, PNAS"

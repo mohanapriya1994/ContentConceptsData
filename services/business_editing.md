@@ -1,14 +1,17 @@
 ---
 title: "Business Document Editing"
 highlight: "Take our word"
-description: "Does your content work? Whether you create website content or white paper or blogpost or product presentation, each of these has a purpose - convey the right message at the right place. But, most often content is not tailored to the medium or audience. 
+description: "<p>Does your content work? Whether you create website content or white paper or blogpost or product presentation, each of these has a purpose - convey the right message at the right place. But, most often content is not tailored to the medium or audience.</p>
 
-Our editors enhance your business writing and make it work for you. Business Document Editing is not just grammar and spell check. Our Business Document Editor,"
+<p>Our editors enhance your business writing and make it work for you. Business Document Editing is not just grammar and spell check. Our Business Document Editor,</p>"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
     title: "Starts from",
-    price: "<span>$0.03</span>/word"
+    price: {
+      inr: "",
+      usd: "<span>$0.03</span>/word"
+    }
   },
   tagContent: "Edited by qualified subject matter experts",
   content: "Don't need major revisions before journal submission?"

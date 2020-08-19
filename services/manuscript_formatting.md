@@ -6,7 +6,10 @@ message: "For research papers, thesis<span>All major formatting styles - APA, Ch
 priceCard: {
   pricing: {
     title: "Starts from",
-    price: "<span>$50</span>/manuscript"
+    price: {
+      inr: "",
+      usd: "<span>$50</span>/manuscript"
+    }
   },
   tagContent: "Fast, no express fee",
   content: "Get it done in 1-2 days"

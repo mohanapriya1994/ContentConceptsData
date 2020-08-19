@@ -6,7 +6,10 @@ message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
     title: "Starts",
-    price: "<span>$100</span>"
+    price: {
+      inr: "",
+      usd: "<span>$100</span>"
+    }
   },
   tagContent: "Affordable & Fast",
   content: "We support you until you publish the manuscript"

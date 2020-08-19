@@ -1,18 +1,21 @@
 ---
 title: "Website Copy Editing"
 highlight: "Content that clicks"
-description: "Website content is not just having correct grammar and impressive vocabulary. More than anything, it should work. 
+description: "<p>Website content is not just having correct grammar and impressive vocabulary. More than anything, it should work.</p>
 
-Now that you are here, we assume you are not convinced with the content of your website or blogpost. You are not alone. We have reviewed and edited more than 10000 pages of website content for startups and SMEs and we know what works and how to make it work. 
+<p>Now that you are here, we assume you are not convinced with the content of your website or blogpost. You are not alone. We have reviewed and edited more than 10000 pages of website content for startups and SMEs and we know what works and how to make it work.</p>
 
-Our website copy editors and content reviewers analyse the scope, target audience, geography and industry so that they understand it better to create engaging content that works for you. 
+<p>Our website copy editors and content reviewers analyse the scope, target audience, geography and industry so that they understand it better to create engaging content that works for you.</p> 
 
-Here is what our talented  Website Content Copy Editors do:"
+<p>Here is what our talented  Website Content Copy Editors do:</p>"
 message: "Make content work for you<span>Clear, concise, and compelling</span>"
 priceCard: {
   pricing: {
     title: "Starting from",
-    price: "<span>INR 3.00</span>/word"
+    price: {
+      inr: "<span>INR 3.00</span>/word",
+      usd: ""
+    }
   },
   tagContent: "Afforable, Actionable Content",
   content: "Tailored to your target audience"
