@@ -7,8 +7,8 @@ priceCard: {
   pricing: {
     title: "Starting from",
     price: {
-      inr: "<span>INR 3500</span>",
-      usd: "<span>USD 50</span>"
+      inr: "<span>INR 3500</span>/word",
+      usd: "<span>USD 50</span>/word"
     }
   },
   tagContent: "Technology. + Human service",
