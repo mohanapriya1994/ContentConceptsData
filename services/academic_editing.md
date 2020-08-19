@@ -1,41 +1,41 @@
 ---
-title: "Resume Editing"
-highlight: "Make a first & best impression"
-description: "Recruiters spend just 20 seconds to review a resume to decide whether to select you for the next stage or reject your resume. Therefore, your resume or CV should immediately catch the attention of the prospective employer. Let your resume editors craft out that perfect resume that wins"
+title: "Academic Editing Services"
+highlight: "Truly Affordable"
+description: "If you are looking for affordable and yet top-quality academic editing services, you have reached the right place. Our mission is to prvoide manuscript editing and proofreading services at affordable price. When you select us, you will get personalised support, and prompt responses at a quicker pace than others"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
-    title: "Starting from",
-    price: "<span>$0.03</span>/word"
+    title: "Starts from",
+    price: "<span>INR 1.50</span>/word"
   },
-  tagContent: "Edited by qualified subject matter experts",
-  content: "Don't need major revisions before journal submission?"
+  tagContent: "No express fee, quick delivery",
+  content: "Publish with confidence"
 }
 features: [
   {
     id: 1,
-    title: "Industry vocabulary that suits your target role"
+    title: "Edited by qualified subject matter experts"
   },
   {
     id: 2,
-    title: "High impact resume structure"
+    title: "Phd Editors with certified English language editing skills"
   },
   {
     id: 3,
-    title: "Clear, consice and crisp writing"
+    title: "Native-English editors"
   },
   {
     id: 4,
-    title: "Experienced Resume Editors"
+    title: "1500 plus journal style and formats edited"
   },
   {
     id: 5,
-    title: "Flawless language"
+    title: "Flawless editing"
   }
 ]
 editingLevels: {
   title: "Different levels of editing",
-  subHeading: "Because each resume is unique",
+  subHeading: "Because each author is unique",
   levelTypes: [
     {
       id: 1,
@@ -143,34 +143,34 @@ editingSample: {
   ]
 }
 editingHighlights: {
-  title: "Highlights of our Resume Editing service",
+  title: "Highlights of our manuscript editing services",
   highlights: [
     {
       id: 1,
       title: "Affordable Prices",
-      description: "Our resume editing fee is one of the best in the industry for the level of quality work we offer from our trusted editors.",
+      description: "Our manuscript editing fee is one of the best in the industry for the level of quality work we offer from our trusted PhD and native English editors.",
       image: "../assets/affordable.svg"
     },
     {
       id: 2,
       title: "Superior Support",
-      description: "You can talk to your resume editor until you are satisfied with our editing service, get your queries answered via email or chat and send your resume after review for further check.",
+      description: "You can talk to your manuscript editor until you are satisfied with our editing service, get your queries answered via email or chat and send your manuscript after review from journal editor for further check.",
       image: "../assets/support.svg"
     },
     {
       id: 3,
       title: "Confidentiality",
-      description: "We ensure your resumes are handled with utmost care. We can sign NDA if necessary.",
+      description: "We ensure your documents are handled with utmost care. We can sign NDA if necessary.",
       image: "../assets/confidential.svg"
     },
     {
       id: 4,
       title: "Secure transaction",
-      description: "Your resume as wells as payment is handled by our secure website which has passed the best level of security testing in the industry.",
+      description: "Your documents as wells as payment is handled by our secure website which has passed the best level of security testing in the industry.",
       image: "../assets/transaction.svg"
     }
   ]
 }
-key: "resume_editing"
-parentType: "academic"
+key: "academic_editing"
+parentType: "technical"
 ---
