@@ -164,7 +164,7 @@ faq:
         British English. You can choose your preferred language style in the
         online submission form.
     - id: 2
-      question: Is my information secure with you
+      question: Is my information secure with you?
       answer: We can edit as per two English language styles – American English and
         British English.
 key: academic_editing
