@@ -22,7 +22,7 @@ teamMembers: [
     name: "Dr. Rajalakshmi, Ph.D",
     role: "Science and Medicine",
     description: "Dr. Rajalakshmi has over 15 years of experience in editing and writing academic papers, theses, and dissertations. She specializes in editing ESL documents and has edited more than 20,000 pages. She has a broad knowledge of biological and medical sciences, IT, and bioinformatics. She has helped many authors publish their manuscripts and theses by improving the structure and language of the content a. She focuses on bringing clarity and conciseness to the documents. Rajalakshmi has conducted many workshops and training to improve the quality of writing among the academic community in Asia.",
-    image: "../assets/profile_male.png",
+    image: "../assets/profile_female.png",
     themeColor: "#FFC6CD"
   },
   
@@ -31,7 +31,7 @@ teamMembers: [
     name: "Dr Nalini Krishna, PhD",
     role: "Consulting Editor (Biological Sciences and Medicine)",
     description: "Dr Nalini gained extensive writing and editing experience from her 10-year career as a scientist at a leading biotechnology lab in India. She has written and edited many types of academic documents, from research proposals to regulatory documents. She has conducted and supervised clinical research trials for reputed pharmaceuticals companies. Scientific writing and editing is an integral part of her work. She observed the English language problems faced by these researchers. She helped these researchers communicate effectively by teaching them ESL writing techniques. She is a specialist in ESL writing and editing.",
-    image: "../assets/profile_male.png",
+    image: "../assets/profile_female.png",
     themeColor: "#FFC6CD"
   },
 ]
