@@ -14,7 +14,7 @@ teamMembers: [
     name: "Alan Wichelman",
     role: "Business & Humanities",
     description: "Allan is our native English editor and his responsibilities include proofreading, editing and rewriting a wide range of corporate documents and correspondence. Additionally, as an attorney licensed in the United States, he taught non-American lawyers reader-friendly, plain English drafting skills. Allan holds a bachelor's degree from the University of Minnesota and a master's degree from the University of Illinois.",
-    image: "../assets/profile_male.png",
+    image: "../assets/marco.png",
     themeColor: "#ACADED"
   },
   {
