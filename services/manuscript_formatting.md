@@ -1,7 +1,6 @@
 ---
 title: "Manuscript Formatting"
 highlight: "Fast & Affordable"
-description: "For many researchers and manuscript authors, formatting is a nightmare and eats in to a lot of their research time. We are here to take care of the manuscript formatting guidelines. Since we do this everyday, our experts will quickly format and make it ready for submission"
 message: "For research papers, thesis<span>All major formatting styles - APA, Chicago, MLA</span>"
 priceCard: {
   pricing: {
@@ -133,10 +132,12 @@ faq: {
     {
       id: 2,
       question: "Is my information secure with you?",
-      answer: "We can edit as per two English language styles – American English and British English. You can choose your preferred language style in the online submission form."
+      answer: "We can edit as per two English language styles – American English and British English."
     }
   ]
 }
 key: "manuscript_formatting"
 parentType: "academic"
 ---
+
+For many researchers and manuscript authors, formatting is a nightmare and eats in to a lot of their research time. We are here to take care of the manuscript formatting guidelines. Since we do this everyday, our experts will quickly format and make it ready for submission

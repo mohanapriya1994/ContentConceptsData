@@ -1,7 +1,6 @@
 ---
 title: "Thesis Editing"
 highlight: "Fast & Affordable"
-description: "What type of documents can you submit? - Thesis, Dissertation, Thesis Proposal, Dissertation Proposal"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
@@ -197,10 +196,12 @@ faq: {
     {
       id: 2,
       question: "Is my information secure with you?",
-      answer: "We can edit as per two English language styles – American English and British English. You can choose your preferred language style in the online submission form."
+      answer: "We can edit as per two English language styles – American English and British English."
     }
   ]
 }
 key: "thesis_editing"
 parentType: "academic"
 ---
+
+What type of documents can you submit? - Thesis, Dissertation, Thesis Proposal, Dissertation Proposal

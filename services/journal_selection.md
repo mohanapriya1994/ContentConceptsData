@@ -1,7 +1,6 @@
 ---
 title: "Journal Selection"
 highlight: "Get it right"
-description: "One of the key task in publishing is selecting the right journal for your paper. More often papers are rejected becuase the topic may not be relevant for the selected journal. Let our experts choose the right journal for your manuscript"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
@@ -110,10 +109,12 @@ faq: {
     {
       id: 2,
       question: "Is my information secure with you?",
-      answer: "We can edit as per two English language styles – American English and British English. You can choose your preferred language style in the online submission form."
+      answer: "We can edit as per two English language styles – American English and British English."
     }
   ]
 }
 key: "journal_selection"
 parentType: "content_development"
 ---
+
+One of the key task in publishing is selecting the right journal for your paper. More often papers are rejected becuase the topic may not be relevant for the selected journal. Let our experts choose the right journal for your manuscript

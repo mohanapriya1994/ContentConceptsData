@@ -1,14 +1,13 @@
 ---
 title: "Similarity Check"
 highlight: "Reduce to less than 5%"
-description: "Our similarity check is done by software and then reviewed by editors for your recommendation"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
     title: "Starting from",
     price: {
-      inr: "<span>INR 3500</span>/word",
-      usd: "<span>USD 50</span>/word"
+      inr: "<span>INR 3500</span>",
+      usd: "<span>USD 50</span>"
     }
   },
   tagContent: "Technology. + Human service",
@@ -133,10 +132,12 @@ faq: {
     {
       id: 2,
       question: "Is my information secure with you?",
-      answer: "We can edit as per two English language styles – American English and British English. You can choose your preferred language style in the online submission form."
+      answer: "We can edit as per two English language styles – American English and British English."
     }
   ]
 }
 key: "similarity_check"
 parentType: "technical"
 ---
+
+Our similarity check is done by software and then reviewed by editors for your recommendation

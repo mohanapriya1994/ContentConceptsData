@@ -1,7 +1,6 @@
 ---
 title: "Business Proposal Editing"
 highlight: "Polish it"
-description: "<p>Congratulations! Since you are here, you should be serious and sincere about your business proposal. And that’s a good start.</p><p>Most often business proposals are a collaborative work and hence the language is inconsistent, complex and vary in tone.</p><p>Our Business Proposal Editors are here to help you create wining proposals that are easy to read and written to the point.</p><p>Editing a business proposal is more than just checking for English language and proposal structure. Here is what our Business Proposal Editing service will do:</p>"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
@@ -218,10 +217,18 @@ faq: {
     {
       id: 2,
       question: "Is my information secure with you?",
-      answer: "We can edit as per two English language styles – American English and British English. You can choose your preferred language style in the online submission form."
+      answer: "We can edit as per two English language styles – American English and British English."
     }
   ]
 }
 key: "business_proposal"
 parentType: "business"
 ---
+
+Congratulations! Since you are here, you should be serious and sincere about your business proposal. And that’s a good start.
+
+Most often business proposals are a collaborative work and hence the language is inconsistent, complex and vary in tone.
+
+Our Business Proposal Editors are here to help you create wining proposals that are easy to read and written to the point.
+
+Editing a business proposal is more than just checking for English language and proposal structure. Here is what our Business Proposal Editing service will do:

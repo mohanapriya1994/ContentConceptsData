@@ -1,7 +1,6 @@
 ---
 title: "Proposal Editing"
 highlight: "Concsie and complete is the key"
-description: "Types of Proposals edited - You have a great idea that you think will get you grant. It is very important that your proposal is clear, concise and conveys your ideas effectively."
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
@@ -210,10 +209,12 @@ faq: {
     {
       id: 2,
       question: "Is my information secure with you?",
-      answer: "We can edit as per two English language styles – American English and British English. You can choose your preferred language style in the online submission form."
+      answer: "We can edit as per two English language styles – American English and British English."
     }
   ]
 }
 key: "proposal_editing"
 parentType: "academic"
 ---
+
+Types of Proposals edited - You have a great idea that you think will get you grant. It is very important that your proposal is clear, concise and conveys your ideas effectively.

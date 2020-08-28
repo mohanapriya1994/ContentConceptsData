@@ -1,40 +1,26 @@
 ---
-title: Academic Editing Services
-highlight: Truly Affordable
-message: Not happy with edit? <span>100% refund without any condition</span>
+title: Plagiarism Correction
+highlight: Powered by Technology + Human
+message: Reduce similarity to less than 5%<span>Using software and manuscript
+  editor</span>
 features:
   - id: 1
-    title: Manuscript Editing
-    link: /services/manuscript_editing
-  - id: 2
-    title: Thesis Editing
-    link: /services/thesis_editing
-  - id: 3
+    title: Manuscript Similarity Check
+    link: /services/similarity_check
+  - id: 4
     title: Plagiarism Editing
     link: /services/plagiarism_editing
-  - id: 4
-    title: Essay Editing
-    link: /services/essay_editing
-  - id: 5
-    title: Proposal Editing
-    link: /services/proposal_editing
-  - title: ESL Editing
-    id: 6
-    link: /services/esl_editing
-  - title: Book Editing
-    id: 7
-    link: /services/book_editing
-  - title: Resume Editing
-    id: 8
-    link: /services/resume_editing
+  - id: 2
+    title: Plagiarism Correction
+    link: /services/plagiarism_check
 priceCard:
   pricing:
     title: Starts from
     price:
-      inr: <span>INR 1.50</span> OR
-      usd: <span>USD 0.03</span> / word
-  tagContent: No express fee, quick delivery
-  content: Publish with confidence
+      inr: <span>INR 4</span>  OR
+      usd: <span>USD 0.07</span>/word
+  tagContent: Reduce similarity from 50% to 5%
+  content: Polished by English Editing
 editingLevels:
   title: Different levels of editing
   subHeading: Because each author is unique
@@ -115,12 +101,12 @@ editingSample:
         learning improvement
       image: ../assets/substantive_editing.png
 editingHighlights:
-  title: Highlights of our manuscript editing services
+  title: Highlights of our Plagiarism Correction services
   highlights:
     - id: 1
       title: Affordable Prices
-      description: Our manuscript editing fee is one of the best in the industry for
-        the level of quality work we offer from our trusted PhD and native
+      description: Our plagiarism correction fee is one of the best in the industry
+        for the level of quality work we offer from our trusted PhD and native
         English editors.
       image: ../assets/affordable.svg
     - id: 2
@@ -176,8 +162,8 @@ faq:
       question: Is my information secure with you?
       answer: We can edit as per two English language styles – American English and
         British English.
-key: academic_editing
+key: plagiarism_correction
 parentType: technical
 ---
 
-If you are looking for affordable yet top-quality academic editing services, you have reached the right place. Our mission is to prvoide manuscript editing and proofreading services at affordable price. When you select us, you will get personalised support, and prompt responses at a quicker pace than others. Here is the list of our Academic Editing Services
+Our plagiarism checker service is powered by technology as well as expert minds. Modern day academic plagiarism involves a lot of unintentional similairty that the authors have as part of sections such as Materials & Methods or References or definition of principles or laws that remain constant and are universal. Let our experts help you find out the root cause of plagiarism and reduce the similarity faster by using industry leadin software and then checked by expert editors in the chosen field. Our Plagiarism Checker services involve:

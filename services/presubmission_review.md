@@ -1,7 +1,6 @@
 ---
 title: "Pre-submission Review"
 highlight: "Publish with Confidence"
-description: "Our manuscript reviewers conduct a detailed review of your manuscript to ensure the manuscript is properly structured and the technical content is sound and clear. Our experts validate the study design and methodology as well as the flow and language of the manuscript"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
@@ -133,10 +132,12 @@ faq: {
     {
       id: 2,
       question: "Is my information secure with you?",
-      answer: "We can edit as per two English language styles – American English and British English. You can choose your preferred language style in the online submission form."
+      answer: "We can edit as per two English language styles – American English and British English."
     }
   ]
 }
 key: "presubmission_review"
 parentType: "content_development"
 ---
+
+Our manuscript reviewers conduct a detailed review of your manuscript to ensure the manuscript is properly structured and the technical content is sound and clear. Our experts validate the study design and methodology as well as the flow and language of the manuscript
