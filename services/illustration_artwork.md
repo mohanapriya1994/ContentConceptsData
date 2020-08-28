@@ -1,7 +1,6 @@
 ---
 title: "Illustration & Artwork"
 highlight: "Because looks matter"
-description: "Looking for help in illustrating research concepts or enhancing your charts, photos and other visuals? We create aesthetically good looking illustrations that make a great impact in scientific and research communications and publishing. We use the latest technologies and tools to craft the right illustration for your needs"
 message: "Not happy with illustration? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
@@ -133,10 +132,12 @@ faq: {
     {
       id: 2,
       question: "Is my information secure with you?",
-      answer: "We can edit as per two English language styles – American English and British English. You can choose your preferred language style in the online submission form."
+      answer: "We can edit as per two English language styles – American English and British English."
     }
   ]
 }
 key: "illustration_artwork"
 parentType: "content_development"
 ---
+
+Looking for help in illustrating research concepts or enhancing your charts, photos and other visuals? We create aesthetically good looking illustrations that make a great impact in scientific and research communications and publishing. We use the latest technologies and tools to craft the right illustration for your needs

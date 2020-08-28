@@ -1,7 +1,6 @@
 ---
 title: "Plagiarism Check"
 highlight: "Powered by Technology + Human"
-description: "You read it right. Our plagiarism check is powered by industry leading software followed by a review by our editors to identify the nature of simlarity and recommendation on further work "
 message: "Significant reduction in similarity<span>Talk to us for more details</span>"
 priceCard: {
   pricing: {
@@ -218,10 +217,12 @@ faq: {
     {
       id: 2,
       question: "Is my information secure with you?",
-      answer: "We can edit as per two English language styles – American English and British English. You can choose your preferred language style in the online submission form."
+      answer: "We can edit as per two English language styles – American English and British English."
     }
   ]
 }
 key: "plagiarism_check"
 parentType: "technical"
 ---
+
+You read it right. Our plagiarism check is powered by industry leading software followed by a review by our editors to identify the nature of simlarity and recommendation on further work 

@@ -1,7 +1,6 @@
 ---
 title: "Resume Editing"
 highlight: "Make a first & best impression"
-description: "Recruiters spend just 20 seconds to review a resume to decide whether to select you for the next stage or reject your resume. Therefore, your resume or CV should immediately catch the attention of the prospective employer. Let your resume editors craft out that perfect resume that wins"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
@@ -218,10 +217,12 @@ faq: {
     {
       id: 2,
       question: "Is my information secure with you?",
-      answer: "We can edit as per two English language styles – American English and British English. You can choose your preferred language style in the online submission form."
+      answer: "We can edit as per two English language styles – American English and British English."
     }
   ]
 }
 key: "resume_editing"
 parentType: "academic"
 ---
+
+Recruiters spend just 20 seconds to review a resume to decide whether to select you for the next stage or reject your resume. Therefore, your resume or CV should immediately catch the attention of the prospective employer. Let your resume editors craft out that perfect resume that wins

@@ -1,7 +1,6 @@
 ---
 title: "Manuscript Rewriting"
 highlight: "Get it Write"
-description: "Manuscript rewriting is done when the writing or English language of the paper is poor and most often rejected by journals. Or you may want to convert your paper to thesis or vice versa. Manuscript rewriting involves extensively rewriting the entire sentence or paragraphs or sections of the manuscript. This is done by our senior manuscript editors who have expereince of rewriting more than 1000 manuscripts across different subjects - Science, Technnology, Medicine and Business"
 message: "Convert your ideas to writing <span>Research papers, thesis, dissertation</span>"
 priceCard: {
   pricing: {
@@ -197,6 +196,13 @@ serviceProcess: {
       title: "Confirm Order",
       description: "After payment is made by the customer, ContentConcepts sends confirmation of payment.",
       themeColor: "#98E5E0"
+    },
+    {
+      id: 4,
+      order: "04",
+      title: "Edit & Return",
+      description: "CC assigns the right editor who edits and sends the edited document back to the customer.",
+      themeColor: "#FFABAB"
     }
   ]
 }
@@ -211,10 +217,12 @@ faq: {
     {
       id: 2,
       question: "Is my information secure with you?",
-      answer: "We can edit as per two English language styles – American English and British English. You can choose your preferred language style in the online submission form."
+      answer: "We can edit as per two English language styles – American English and British English."
     }
   ]
 }
 key: "manuscript_rewriting"
 parentType: "content_development"
 ---
+
+Manuscript rewriting is done when the writing or English language of the paper is poor and most often rejected by journals. Or you may want to convert your paper to thesis or vice versa. Manuscript rewriting involves extensively rewriting the entire sentence or paragraphs or sections of the manuscript. This is done by our senior manuscript editors who have expereince of rewriting more than 1000 manuscripts across different subjects - Science, Technnology, Medicine and Business

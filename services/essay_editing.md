@@ -1,7 +1,6 @@
 ---
 title: "Essay Editing"
 highlight: "Fast & Affordable"
-description: "Essay it loud! Get the perfect esasay that highlights your strength and written to the point"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
@@ -218,10 +217,12 @@ faq: {
     {
       id: 2,
       question: "Is my information secure with you?",
-      answer: "We can edit as per two English language styles – American English and British English. You can choose your preferred language style in the online submission form."
+      answer: "We can edit as per two English language styles – American English and British English."
     }
   ]
 }
 key: "essay_editing"
 parentType: "academic"
 ---
+
+Essay it loud! Get the perfect esasay that highlights your strength and written to the point

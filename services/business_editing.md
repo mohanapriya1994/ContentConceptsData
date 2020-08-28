@@ -1,7 +1,6 @@
 ---
 title: "Business Document Editing"
 highlight: "Take our word"
-description: "<p>Does your content work? Whether you create website content or white paper or blogpost or product presentation, each of these has a purpose - convey the right message at the right place. But, most often content is not tailored to the medium or audience.</p><p>Our editors enhance your business writing and make it work for you. Business Document Editing is not just grammar and spell check. Our Business Document Editor,</p>"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
@@ -17,19 +16,19 @@ priceCard: {
 features: [
   {
     id: 1,
-    title: "1. Analyses overall structure and purpose"
+    title: "Analyses overall structure and purpose"
   },
   {
     id: 2,
-    title: "2. Edits for clarity, conciseness and completeness"
+    title: "Edits for clarity, conciseness and completeness"
   },
   {
     id: 3,
-    title: "3. Recommends additional information or section"
+    title: "Recommends additional information or section"
   },
   {
     id: 4,
-    title: "4. Suggests relevant title or creates title and headings"
+    title: "Suggests relevant title or creates title and headings"
   },
   {
     id: 5,
@@ -218,10 +217,14 @@ faq: {
     {
       id: 2,
       question: "Is my information secure with you?",
-      answer: "We can edit as per two English language styles – American English and British English. You can choose your preferred language style in the online submission form."
+      answer: "We can edit as per two English language styles – American English and British English."
     }
   ]
 }
 key: "business_editing"
 parentType: "business"
 ---
+
+Does your content work? Whether you create website content or white paper or blogpost or product presentation, each of these has a purpose - convey the right message at the right place. But, most often content is not tailored to the medium or audience.
+
+Our editors enhance your business writing and make it work for you. Business Document Editing is not just grammar and spell check. Our Business Document Editor,

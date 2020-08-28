@@ -1,7 +1,6 @@
 ---
 title: "Plagiarism Editing"
 highlight: "Reduce similarity & risk"
-description: "Worried your manuscirpt might be rejected for plagiarism? Our plagiarism check and editing services provide you detailed report on your paper and then recommendations to rewrite your paper to reduce similarity. Our editors help you fix the problem areas, English language and flow of the paper"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
@@ -133,10 +132,12 @@ faq: {
     {
       id: 2,
       question: "Is my information secure with you?",
-      answer: "We can edit as per two English language styles – American English and British English. You can choose your preferred language style in the online submission form."
+      answer: "We can edit as per two English language styles – American English and British English."
     }
   ]
 }
 key: "plagiarism_editing"
 parentType: "technical"
 ---
+
+Worried your manuscirpt might be rejected for plagiarism? Our plagiarism check and editing services provide you detailed report on your paper and then recommendations to rewrite your paper to reduce similarity. Our editors help you fix the problem areas, English language and flow of the paper
