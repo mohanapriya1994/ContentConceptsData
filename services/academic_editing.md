@@ -1,11 +1,6 @@
 ---
 title: Academic Editing Services
 highlight: Truly Affordable
-description: If you are looking for affordable and yet top-quality academic
-  editing services, you have reached the right place. Our mission is to prvoide
-  <a href="/services/manuscript_editing">manuscript editing</a> and proofreading services
-  at affordable price. When you select us, you will get personalised support,
-  and prompt responses at a quicker pace than others
 message: Not happy with edit? <span>100% refund without any condition</span>
 features:
   - id: 1
@@ -167,6 +162,16 @@ faq:
       question: Is my information secure with you
       answer: We can edit as per two English language styles – American English and
         British English.
-key: academic_editing
 parentType: technical
+description: If you are looking for affordable and yet top-quality academic
+  editing services, you have reached the right place. Our mission is to prvoide
+  <a href="/services/manuscript_editing">manuscript editing</a> and proofreading
+  services at affordable price. When you select us, you will get personalised
+  support, and prompt responses at a quicker pace than others
+key: academic_editing
 ---
+efewf  wed wdwe [wefdwe ](/services/manuscript_editing) wdkwe oqwjdew oiew foi
+
+wed iowd ewk
+
+wkednkwe
