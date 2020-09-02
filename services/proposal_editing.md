@@ -1,17 +1,17 @@
 ---
 title: "Proposal Editing"
-highlight: "Concsie and complete is the key"
+highlight: "Concise and complete is the key"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
     title: "Starting from",
     price: {
-      inr: "",
+      inr: "INR 1.50</span>/word",
       usd: "<span>$0.03</span>/word"
     }
   },
-  tagContent: "Edited by qualified subject matter experts",
-  content: "Don't need major revisions before journal submission?"
+  tagContent: "Clear, Concise and Complete",
+  content: "Create winning proposals"
 }
 features: [
   {
@@ -50,7 +50,7 @@ editingLevels: {
   levels: [
     {
       id: 1,
-      title: "Checking for grammatical errors Correcting spelling mistakes",
+      title: "Checking for grammatical errors, correcting spelling mistakes",
       copy: "yes",
       substantive: "yes",
       developmental: "yes"
@@ -64,7 +64,7 @@ editingLevels: {
     },
     {
       id: 3,
-      title: "Ensuring the final copy is clean without any Typographical or other errors",
+      title: "Ensuring the final copy is clean without any typographical or other errors",
       copy: "yes",
       substantive: "yes",
       developmental: "yes"
@@ -85,7 +85,7 @@ editingLevels: {
     },
     {
       id: 6,
-      title: "Checking for appropirate usage for words and terms",
+      title: "Checking for appropriate usage for words and terms",
       copy: "no",
       substantive: "yes",
       developmental: "yes"
@@ -99,7 +99,7 @@ editingLevels: {
     },
     {
       id: 8,
-      title: "Verifing effective structure and outline",
+      title: "Verifying effective structure and outline",
       copy: "no",
       substantive: "no",
       developmental: "yes"
@@ -119,7 +119,7 @@ editingSample: {
     {
       id: 1,
       title: "Copy Editing",
-      description: "Line by line editing for language, readibility nad technical learning improvement",
+      description: "Line by line editing for language, readability and technical learning improvement",
       image: "../assets/substantive_editing.png"
     },
     {
@@ -178,7 +178,7 @@ serviceProcess: {
     {
       id: 2,
       order: "02",
-      title: "Recieve Quote",
+      title: "Receive Quote",
       description: "After receiving the manuscript, ContentConcepts sends price quote.",
       themeColor: "#F5DA7D"
     },
@@ -215,6 +215,19 @@ faq: {
 }
 key: "proposal_editing"
 parentType: "academic"
+seo:
+  title: Research proposal editing services in India. Proposal proofreading services
+  description: Proposal editing and proofreading services in India at affordable prices. Proposal formatting available.
+  keywords:
+    - Proposal editing service
+    - proposal proofreading service
+    - proposal english editing
+    - proposal editing
+    - proposal proofreading
+    - proposal writing
+    - proposal review
+    - proposal checking
+    - proposal formatting
 ---
 
 Types of Proposals edited - You have a great idea that you think will get you grant. It is very important that your proposal is clear, concise and conveys your ideas effectively.

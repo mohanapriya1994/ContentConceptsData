@@ -1,5 +1,5 @@
 ---
-title: Blog, English Editing and proofreading services in India
+title: Blog
 description: English Ediitng and proofreading services in India. Truly affordable and top-quality services for manuscript authors and publishers.
 keywords:
   - english editing

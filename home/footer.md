@@ -90,7 +90,7 @@ sitemapList:
         title: Marketing Communications
         link: /services/marketing_communications_editing
       - id: 3
-        title: Business Profile
+        title: Company Profile
         link: /services/company_profile
       - id: 4
         title: Document Formatting
@@ -105,6 +105,6 @@ sitemapList:
         title: Presentations
         link: /services/presentations
       - id: 8
-        title: English Editing & Proofeading
+        title: English Editing & Proofreading
         link: /services/english_editing_india
 ---
