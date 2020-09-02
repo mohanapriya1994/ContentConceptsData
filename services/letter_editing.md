@@ -4,14 +4,14 @@ highlight: "Deliver the right message"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
-    title: "Starting from",
+    title: "Starts from",
     price: {
-      inr: "",
-      usd: "<span>$0.03</span>/word"
+      inr: "<span>INR 2.00</span>/word",
+      usd: "<span>$0.05</span>/word"
     }
   },
-  tagContent: "Edited by qualified subject matter experts",
-  content: "Don't need major revisions before journal submission?"
+  tagContent: "Clear, Concise & Compelling",
+  content: "Content that clicks"
 }
 features: [
   {
@@ -65,14 +65,14 @@ editingLevels: {
     },
     {
       id: 2,
-      title: "Ensuring the manuscripts adheres to style guide",
+      title: "Ensuring the manuscript adheres to style guide",
       copy: "yes",
       substantive: "yes",
       developmental: "yes"
     },
     {
       id: 3,
-      title: "Ensuring the final copy is clean without any Typographical or other errors",
+      title: "Ensuring the final copy is clean without any typographical or other errors",
       copy: "yes",
       substantive: "yes",
       developmental: "yes"
@@ -93,7 +93,7 @@ editingLevels: {
     },
     {
       id: 6,
-      title: "Checking for appropirate usage for words and terms",
+      title: "Checking for appropriate usage for words and terms",
       copy: "no",
       substantive: "yes",
       developmental: "yes"
@@ -107,7 +107,7 @@ editingLevels: {
     },
     {
       id: 8,
-      title: "Verifing effective structure and outline",
+      title: "Verifying effective structure and outline",
       copy: "no",
       substantive: "no",
       developmental: "yes"
@@ -127,7 +127,7 @@ editingSample: {
     {
       id: 1,
       title: "Copy Editing",
-      description: "Line by line editing for language, readibility nad technical learning improvement",
+      description: "Line by line editing for language, readability and technical learning improvement",
       image: "../assets/substantive_editing.png"
     },
     {
@@ -186,7 +186,7 @@ serviceProcess: {
     {
       id: 2,
       order: "02",
-      title: "Recieve Quote",
+      title: "Receive Quote",
       description: "After receiving the manuscript, ContentConcepts sends price quote.",
       themeColor: "#F5DA7D"
     },
@@ -223,6 +223,14 @@ faq: {
 }
 key: "letter_editing"
 parentType: "academic"
+seo:
+  title: Letter editing and proofreading services in India
+  description: Letter writing and proofreading services in India at affordable prices. Trusted for over 25 years/
+  keywords:
+    - Letter editing
+    - letter proofreading
+    - letter writing
+    - business letter writing
 ---
 
-Writing a letter that gets your readers' attention isn't alawys easy. Writing a cover letter to journal or grant proposal or for a job? Our team will help you craft the perfect letter that delivers the message. To do this our editors
+Writing a letter that gets your readers' attention isn't always easy. Writing a cover letter to journal or grant proposal or for a job? Our team will help you craft the perfect letter that delivers the message. To do this our editors

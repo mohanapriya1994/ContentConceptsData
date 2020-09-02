@@ -4,10 +4,10 @@ highlight: "Make a first & best impression"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
 priceCard: {
   pricing: {
-    title: "Starting from",
+    title: "Starts from",
     price: {
-      inr: "",
-      usd: "<span>$0.03</span>/word"
+      inr: "<span>INR 2.00</span>/word",
+      usd: "<span>$0.05</span>/word"
     }
   },
   tagContent: "Edited by qualified subject matter experts",
@@ -24,7 +24,7 @@ features: [
   },
   {
     id: 3,
-    title: "Clear, consice and crisp writing"
+    title: "Clear, concise and crisp writing"
   },
   {
     id: 4,
@@ -72,7 +72,7 @@ editingLevels: {
     },
     {
       id: 3,
-      title: "Ensuring the final copy is clean without any Typographical or other errors",
+      title: "Ensuring the final copy is clean without any typographical or other errors",
       copy: "yes",
       substantive: "yes",
       developmental: "yes"
@@ -93,7 +93,7 @@ editingLevels: {
     },
     {
       id: 6,
-      title: "Checking for appropirate usage for words and terms",
+      title: "Checking for appropriate usage for words and terms",
       copy: "no",
       substantive: "yes",
       developmental: "yes"
@@ -107,7 +107,7 @@ editingLevels: {
     },
     {
       id: 8,
-      title: "Verifing effective structure and outline",
+      title: "Verifying effective structure and outline",
       copy: "no",
       substantive: "no",
       developmental: "yes"
@@ -127,7 +127,7 @@ editingSample: {
     {
       id: 1,
       title: "Copy Editing",
-      description: "Line by line editing for language, readibility nad technical learning improvement",
+      description: "Line by line editing for language, readability and technical learning improvement",
       image: "../assets/substantive_editing.png"
     },
     {
@@ -186,7 +186,7 @@ serviceProcess: {
     {
       id: 2,
       order: "02",
-      title: "Recieve Quote",
+      title: "Receive Quote",
       description: "After receiving the manuscript, ContentConcepts sends price quote.",
       themeColor: "#F5DA7D"
     },
@@ -223,6 +223,14 @@ faq: {
 }
 key: "resume_editing"
 parentType: "academic"
+seo:
+  title: Resume editing and proofreading services in India.
+  description: Resume editing and proofreading services in India.
+  keywords:
+    - Resume editing
+    - bio data editing
+    - resume proofreading
+    - resume writing services in India
 ---
 
 Recruiters spend just 20 seconds to review a resume to decide whether to select you for the next stage or reject your resume. Therefore, your resume or CV should immediately catch the attention of the prospective employer. Let your resume editors craft out that perfect resume that wins

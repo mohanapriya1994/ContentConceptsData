@@ -31,8 +31,8 @@ priceCard:
   pricing:
     title: Starts from
     price:
-      inr: <span>INR 1.50</span> OR
-      usd: <span>USD 0.03</span> / word
+      inr: <span>INR 1.50</span>word
+      usd: <span>USD 0.03</span>/word
   tagContent: No express fee, quick delivery
   content: Publish with confidence
 editingLevels:
@@ -77,7 +77,7 @@ editingLevels:
       substantive: yes
       developmental: yes
     - id: 6
-      title: Checking for appropirate usage for words and terms
+      title: Checking for appropriate usage for words and terms
       copy: no
       substantive: yes
       developmental: yes
@@ -87,7 +87,7 @@ editingLevels:
       substantive: no
       developmental: yes
     - id: 8
-      title: Verifing effective structure and outline
+      title: Verifying effective structure and outline
       copy: no
       substantive: no
       developmental: yes
@@ -106,7 +106,7 @@ editingSample:
       image: ../assets/substantive_editing.png
     - id: 2
       title: Substantive Editing
-      description: Line by line editing for language, readibility nad technical
+      description: Line by line editing for language, readibility and technical
         learning improvement
       image: ../assets/substantive_editing.png
     - id: 3
@@ -149,7 +149,7 @@ serviceProcess:
       themeColor: "#98ECA6"
     - id: 2
       order: "02"
-      title: Recieve Quote
+      title: Receive Quote
       description: After receiving the manuscript, ContentConcepts sends price quote.
       themeColor: "#F5DA7D"
     - id: 3
@@ -179,7 +179,7 @@ faq:
 key: academic_editing
 parentType: technical
 seo:
-  title: English Editing and Proofreading Services for academics in India
+  title: English Editing and Proofreading Services in India for research paper & manuscript
   description: Academic English editing and proofreading services in India at affordable prices. Why pay in dollar when you can pay in rupee?
   keywords:
     - English editing
@@ -193,6 +193,7 @@ seo:
     - manuscript editing services free online english language editing service
     - english language editing service india
 ---
+
 If you are looking for affordable yet top-quality academic editing services, you have reached the right place. Our mission is to prvoide [manuscript editing](/services/manuscript_editing) and proofreading services at affordable price.
 
 When you select us, you will get personalised support, and prompt responses at a quicker pace than others. Here is the list of our Academic Editing Services
