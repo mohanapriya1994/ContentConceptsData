@@ -12,7 +12,7 @@ priceCard:
       inr: <span>INR 1.50</span>word
   tagContent: No express fee, quick delivery
   content: Publish with confidence
-key: test_services
+key: test_path
 parentType: technical
 seo:
   title: English Editing and Proofreading Services in India for research paper &
