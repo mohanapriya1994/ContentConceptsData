@@ -125,7 +125,7 @@ faq:
       question: Is my information secure with you?
       answer: We can edit as per two English language styles – American English and
         British English.
-key: publication_services
+key: publication_support
 seo:
   title: Manuscript publication support.
   description: Manuscript publication support services in India. Truly affordable prices for top quality work offered by PhD editors.
