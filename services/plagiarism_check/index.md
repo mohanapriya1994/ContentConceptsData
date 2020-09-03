@@ -1,35 +1,43 @@
 ---
-title: "Proposal Editing"
-highlight: "Concise and complete is the key"
-message: "Not happy with edit? <span>100% refund without any condition</span>"
+title: "Plagiarism Check"
+highlight: "Powered by Technology + Human"
+message: "Significant reduction in similarity<span>Talk to us for more details</span>"
 priceCard: {
   pricing: {
     title: "Starting from",
     price: {
-      inr: "INR 1.50</span>/word",
+      inr: "",
       usd: "<span>$0.03</span>/word"
     }
   },
-  tagContent: "Clear, Concise and Complete",
-  content: "Create winning proposals"
+  tagContent: "Edited by qualified subject matter experts",
+  content: "Don't need major revisions before journal submission?"
 }
 features: [
   {
     id: 1,
-    title: "Edited by experienced grant writers"
+    title: "Industry leading software for checking"
   },
   {
     id: 2,
-    title: "Check for proper structure and flow"
+    title: "Human review by editors"
   },
   {
     id: 3,
-    title: "Cut down redundancy and get to the point"
+    title: "Detailed report on similarity"
+  },
+  {
+    id: 4,
+    title: "Recommendations to reduce similarity"
+  },
+  {
+    id: 5,
+    title: "Same day delivery"
   }
 ]
 editingLevels: {
-  title: "Proposal Editing levels",
-  subHeading: "Because each proposal is unique",
+  title: "Different levels of editing",
+  subHeading: "Because each author is unique",
   levelTypes: [
     {
       id: 1,
@@ -50,21 +58,21 @@ editingLevels: {
   levels: [
     {
       id: 1,
-      title: "Checking for grammatical errors, correcting spelling mistakes",
+      title: "Checking for grammatical errors Correcting spelling mistakes",
       copy: "yes",
       substantive: "yes",
       developmental: "yes"
     },
     {
       id: 2,
-      title: "Ensuring the proposal adheres to guidelines",
+      title: "Ensuring the manuscripts adheres to style guide",
       copy: "yes",
       substantive: "yes",
       developmental: "yes"
     },
     {
       id: 3,
-      title: "Ensuring the final copy is clean without any typographical or other errors",
+      title: "Ensuring the final copy is clean without any Typographical or other errors",
       copy: "yes",
       substantive: "yes",
       developmental: "yes"
@@ -85,7 +93,7 @@ editingLevels: {
     },
     {
       id: 6,
-      title: "Checking for appropriate usage for words and terms",
+      title: "Checking for appropirate usage for words and terms",
       copy: "no",
       substantive: "yes",
       developmental: "yes"
@@ -99,7 +107,7 @@ editingLevels: {
     },
     {
       id: 8,
-      title: "Verifying effective structure and outline",
+      title: "Verifing effective structure and outline",
       copy: "no",
       substantive: "no",
       developmental: "yes"
@@ -114,54 +122,54 @@ editingLevels: {
   ]
 }
 editingSample: {
-  title: "Proposal Editing Sample",
+  title: "Editing Sample",
   samples: [
     {
       id: 1,
       title: "Copy Editing",
-      description: "Line by line editing for language, readability and technical learning improvement",
-      image: "../assets/substantive_editing.png"
+      description: "Line by line editing for language, readibility nad technical learning improvement",
+      image: "../../assets/substantive_editing.png"
     },
     {
       id: 2,
       title: "Substantive Editing",
       description: "Line by line editing for language, readibility nad technical learning improvement",
-      image: "../assets/substantive_editing.png"
+      image: "../../assets/substantive_editing.png"
     },
     {
       id: 3,
       title: "Developmental Editing",
       description: "Line by line editing for language, readibility nad technical learning improvement",
-      image: "../assets/substantive_editing.png"
+      image: "../../assets/substantive_editing.png"
     }
   ]
 }
 editingHighlights: {
-  title: "Highlights of our Proposal Editing service",
+  title: "Highlights of our manuscript editing services",
   highlights: [
     {
       id: 1,
       title: "Affordable Prices",
-      description: "Our proposal editing fee is one of the best in the industry for the level of quality work we offer from our trusted PhD and native English editors.",
-      image: "../assets/affordable.svg"
+      description: "Our manuscript editing fee is one of the best in the industry for the level of quality work we offer from our trusted PhD and native English editors.",
+      image: "../../assets/affordable.svg"
     },
     {
       id: 2,
       title: "Superior Support",
-      description: "You can talk to your proposal editor until you are satisfied with our editing service, get your queries answered via email or chat and send your proposal after review from for further check.",
-      image: "../assets/support.svg"
+      description: "You can talk to your manuscript editor until you are satisfied with our editing service, get your queries answered via email or chat and send your manuscript after review from journal editor for further check.",
+      image: "../../assets/support.svg"
     },
     {
       id: 3,
       title: "Confidentiality",
       description: "We ensure your documents are handled with utmost care. We can sign NDA if necessary.",
-      image: "../assets/confidential.svg"
+      image: "../../assets/confidential.svg"
     },
     {
       id: 4,
       title: "Secure transaction",
       description: "Your documents as wells as payment is handled by our secure website which has passed the best level of security testing in the industry.",
-      image: "../assets/transaction.svg"
+      image: "../../assets/transaction.svg"
     }
   ]
 }
@@ -178,7 +186,7 @@ serviceProcess: {
     {
       id: 2,
       order: "02",
-      title: "Receive Quote",
+      title: "Recieve Quote",
       description: "After receiving the manuscript, ContentConcepts sends price quote.",
       themeColor: "#F5DA7D"
     },
@@ -213,21 +221,17 @@ faq: {
     }
   ]
 }
-key: "proposal_editing"
-parentType: "academic"
+key: "plagiarism_check"
+parentType: "technical"
 seo:
-  title: Research proposal editing services in India. Proposal proofreading services
-  description: Proposal editing and proofreading services in India at affordable prices. Proposal formatting available.
+  title: Plagiarism removal services in India, Plagiarism checker services
+  description: Plagiarism checker and plagiarism removal services in India at truly affordable prices. We help reduce similarity in manuscript
   keywords:
-    - Proposal editing service
-    - proposal proofreading service
-    - proposal english editing
-    - proposal editing
-    - proposal proofreading
-    - proposal writing
-    - proposal review
-    - proposal checking
-    - proposal formatting
+    - Plagiarism checker
+    - Plagiarism correction
+    - Plagiarism checking
+    - Plagiarism detection
+    - Plagiarism remover
 ---
 
-Types of Proposals edited - You have a great idea that you think will get you grant. It is very important that your proposal is clear, concise and conveys your ideas effectively.
+You read it right. Our plagiarism check is powered by industry leading software followed by a review by our editors to identify the nature of simlarity and recommendation on further work 
