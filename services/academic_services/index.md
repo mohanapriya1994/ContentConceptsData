@@ -1,26 +1,40 @@
 ---
-title: Plagiarism Correction
-highlight: Powered by Technology + Human
-message: Reduce similarity to less than 5%<span>Using software and manuscript
-  editor</span>
+title: Academic Editing Services
+highlight: Truly Affordable
+message: Not happy with edit? <span>100% refund without any condition</span>
 features:
   - id: 1
-    title: Manuscript Similarity Check
-    link: /services/similarity_check
-  - id: 4
+    title: Manuscript Editing
+    link: /services/manuscript_editing
+  - id: 2
+    title: Thesis Editing
+    link: /services/thesis_editing
+  - id: 3
     title: Plagiarism Editing
     link: /services/plagiarism_editing
-  - id: 2
-    title: Plagiarism Correction
-    link: /services/plagiarism_check
+  - id: 4
+    title: Essay Editing
+    link: /services/essay_editing
+  - id: 5
+    title: Proposal Editing
+    link: /services/proposal_editing
+  - title: ESL Editing
+    id: 6
+    link: /services/esl_editing
+  - title: Book Editing
+    id: 7
+    link: /services/book_editing
+  - title: Resume Editing
+    id: 8
+    link: /services/resume_editing
 priceCard:
   pricing:
     title: Starts from
     price:
-      inr: <span>INR 4</span>  OR
-      usd: <span>USD 0.07</span>/word
-  tagContent: Reduce similarity from 50% to 5%
-  content: Polished by English Editing
+      inr: <span>INR 1.50</span>word
+      usd: <span>USD 0.03</span>/word
+  tagContent: No express fee, quick delivery
+  content: Publish with confidence
 editingLevels:
   title: Different levels of editing
   subHeading: Because each author is unique
@@ -87,44 +101,44 @@ editingSample:
   samples:
     - id: 1
       title: Copy Editing
-      description: Line by line editing for language, readability and technical
+      description: Line by line editing for language, readibility nad technical
         learning improvement
-      image: ../assets/substantive_editing.png
+      image: ../../assets/substantive_editing.png
     - id: 2
       title: Substantive Editing
-      description: Line by line editing for language, readability and technical
+      description: Line by line editing for language, readibility and technical
         learning improvement
-      image: ../assets/substantive_editing.png
+      image: ../../assets/substantive_editing.png
     - id: 3
       title: Developmental Editing
-      description: Line by line editing for language, readability and technical
+      description: Line by line editing for language, readibility nad technical
         learning improvement
-      image: ../assets/substantive_editing.png
+      image: ../../assets/substantive_editing.png
 editingHighlights:
-  title: Highlights of our Plagiarism Correction services
+  title: Highlights of our manuscript editing services
   highlights:
     - id: 1
       title: Affordable Prices
-      description: Our plagiarism correction fee is one of the best in the industry
-        for the level of quality work we offer from our trusted PhD and native
+      description: Our manuscript editing fee is one of the best in the industry for
+        the level of quality work we offer from our trusted PhD and native
         English editors.
-      image: ../assets/affordable.svg
+      image: ../../assets/affordable.svg
     - id: 2
       title: Superior Support
       description: You can talk to your manuscript editor until you are satisfied with
         our editing service, get your queries answered via email or chat and
         send your manuscript after review from journal editor for further check.
-      image: ../assets/support.svg
+      image: ../../assets/support.svg
     - id: 3
       title: Confidentiality
       description: We ensure your documents are handled with utmost care. We can sign
         NDA if necessary.
-      image: ../assets/confidential.svg
+      image: ../../assets/confidential.svg
     - id: 4
       title: Secure transaction
       description: Your documents as wells as payment is handled by our secure website
         which has passed the best level of security testing in the industry.
-      image: ../assets/transaction.svg
+      image: ../../assets/transaction.svg
 serviceProcess:
   title: How it works?
   steps:
@@ -162,17 +176,24 @@ faq:
       question: Is my information secure with you?
       answer: We can edit as per two English language styles – American English and
         British English.
-key: plagiarism_correction
+key: academic_editing
 parentType: technical
 seo:
-  title: Plagiarism removal services in India, Plagiarism checker services, Plagiarism detection
-  description: Plagiarism checker and plagiarism removal services in India at truly affordable prices. We help reduce similarity in manuscript
+  title: English Editing and Proofreading Services in India for research paper & manuscript
+  description: Academic English editing and proofreading services in India at affordable prices. Why pay in dollar when you can pay in rupee?
   keywords:
-    - Plagiarism checker
-    - Plagiarism correction
-    - Plagiarism checking
-    - Plagiarism detection
-    - Plagiarism remover
+    - English editing
+    - editing english
+    - editing manuscripts
+    - editing service
+    - manuscript editor
+    - editing a manuscript
+    - manuscript editing
+    - manuscript edit
+    - manuscript editing services free online english language editing service
+    - english language editing service india
 ---
 
-Our plagiarism checker service is powered by technology as well as expert minds. Modern day academic plagiarism involves a lot of unintentional similarity that the authors have as part of sections such as Materials & Methods or References or definition of principles or laws that remain constant and are universal. Let our experts help you find out the root cause of plagiarism and reduce the similarity faster by using industry leading software and then checked by expert editors in the chosen field. Our Plagiarism Checker services involve:
+If you are looking for affordable yet top-quality academic editing services, you have reached the right place. Our mission is to prvoide [manuscript editing](/services/manuscript_editing) and proofreading services at affordable price.
+
+When you select us, you will get personalised support, and prompt responses at a quicker pace than others. Here is the list of our Academic Editing Services
