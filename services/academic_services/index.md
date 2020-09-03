@@ -176,7 +176,7 @@ faq:
       question: Is my information secure with you?
       answer: We can edit as per two English language styles – American English and
         British English.
-key: academic_editing
+key: academic_services
 parentType: technical
 seo:
   title: English Editing and Proofreading Services in India for research paper & manuscript
