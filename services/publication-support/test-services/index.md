@@ -19,7 +19,7 @@ editingHighlights:
       description: test
       image: ../assets/affordable.svg
   title: hightlights
-key: test_services
+key: test-services
 parentType: publication
 seo:
   title: test
