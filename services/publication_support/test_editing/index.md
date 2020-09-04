@@ -17,7 +17,7 @@ editingHighlights:
     - title: test
       id: 1
       description: test
-      image: /confidential.svg
+      image: /consulting.svg
   title: hightlights
 key: test_editing
 parentType: publication
