@@ -12,6 +12,13 @@ priceCard:
       inr: INR 1.50/word
   tagContent: test
   content: test
+editingHighlights:
+  highlights:
+    - title: test
+      id: 1
+      description: test
+      image: ../assets/affordable.svg
+  title: hightlights
 key: test_services
 parentType: publication
 seo:
