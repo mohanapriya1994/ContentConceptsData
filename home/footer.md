@@ -40,7 +40,7 @@ sitemapList:
         link: /services/esl_editing
       - id: 7
         title: Book Editing
-        link: /services/academic_services/book_editing
+        link: /services/book_editing
       - id: 8
         title: Resume Editing
         link: /services/resume_editing
@@ -50,7 +50,7 @@ sitemapList:
     sitemap:
       - id: 1
         title: Journal Selection
-        link: /services/publication_services/journal_selection
+        link: /services/journal_selection
       - id: 2
         title: Journal Submission
         link: /services/journal_submission
@@ -71,24 +71,21 @@ sitemapList:
         link: /services/manuscript_formatting
   - id: 4
     title: Plagiarism Check
-    link: /services/plagiarism_correction
+    link: /services/plagiarism_check
     sitemap:
       - id: 1
         title: Manuscript Similarity Check
-        link: /services/plagiarism_check/similarity_check
+        link: /services/similarity_check
       - id: 2
         title: Plagiarism Editing
         link: /services/plagiarism_editing
-      - id: 3
-        title: Plagiarism Correction
-        link: /services/plagiarism_check
   - id: 5
     title: Business Editing
     link: /services/business_editing
     sitemap:
       - id: 1
         title: Business Proposal
-        link: /services/business_editing/business_proposal
+        link: /services/business_proposal
       - id: 2
         title: Marketing Communications
         link: /services/marketing_communications_editing
