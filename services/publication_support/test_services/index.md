@@ -19,7 +19,7 @@ editingHighlights:
       description: test
       image: /consulting.svg
   title: hightlights
-key: test_editing
+key: test_services
 parentType: publication
 seo:
   title: test
