@@ -17,7 +17,7 @@ editingHighlights:
     - title: test
       id: 1
       description: test
-      image: /consulting.svg
+      image: /assets/affordable.svg
   title: hightlights
 key: test_services
 parentType: publication
