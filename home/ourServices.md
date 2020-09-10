@@ -13,7 +13,7 @@ services: [
     title: "Publication Support",
     description: "We offer end-to-end support in editing, formatting, journal selection, plagiarism check, artwork and submission. If you do not have a lot of time and want to publish quickly, talk to us.",
     image: "../assets/development.svg",
-    link: "/services/publication_support"
+    link: "/services/publication_services"
   },
   {
     id: 3,

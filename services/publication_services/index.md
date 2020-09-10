@@ -39,22 +39,22 @@ message: Not happy with edit? <span>100% refund without any condition</span>
 features:
   - id: 1
     title: Journal Selection
-    link: /services/publication_support/journal_selection
+    link: /services/publication_services/journal_selection
   - id: 2
     title: Journal Submission
-    link: /services/publication_support/journal_submission
+    link: /services/publication_services/journal_submission
   - id: 3
     title: Manuscript Pre-submission Review
-    link: /services/publication_support/presubmission_review
+    link: /services/publication_services/presubmission_review
   - id: 4
     title: Manuscript Re-subsumission Review
-    link: /services/publication_support/manuscript_resubmission
+    link: /services/publication_services/manuscript_resubmission
   - id: 5
     title: Plagiarism Check
     link: /services/plagiarism_check
   - id: 6
     title: Illustration & Artwork Enhancements
-    link: /services/publication_support/illustration_artwork
+    link: /services/publication_services/illustration_artwork
 priceCard:
   pricing:
     title: Starts
