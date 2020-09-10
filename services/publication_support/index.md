@@ -39,22 +39,22 @@ message: Not happy with edit? <span>100% refund without any condition</span>
 features:
   - id: 1
     title: Journal Selection
-    link: /services/journal_selection
+    link: /services/publication_support/journal_selection
   - id: 2
     title: Journal Submission
-    link: /services/journal_submission
+    link: /services/publication_support/journal_submission
   - id: 3
     title: Manuscript Pre-submission Review
-    link: /services/presubmission_review
+    link: /services/publication_support/presubmission_review
   - id: 4
     title: Manuscript Re-subsumission Review
-    link: /services/manuscript_resubmission
+    link: /services/publication_support/manuscript_resubmission
   - id: 5
     title: Plagiarism Check
     link: /services/plagiarism_check
   - id: 6
     title: Illustration & Artwork Enhancements
-    link: /services/illustration_artwork
+    link: /services/publication_support/illustration_artwork
 priceCard:
   pricing:
     title: Starts
@@ -71,23 +71,23 @@ editingHighlights:
       description: Our manuscript editing fee is one of the best in the industry for
         the level of quality work we offer from our trusted PhD and native
         English editors.
-      image: ../../assets/affordable.svg
+      image: ./affordable.svg
     - id: 2
       title: Superior Support
       description: You can talk to your manuscript editor until you are satisfied with
         our editing service, get your queries answered via email or chat and
         send your manuscript after review from journal editor for further check.
-      image: ../../assets/support.svg
+      image: ./support.svg
     - id: 3
       title: Confidentiality
       description: We ensure your documents are handled with utmost care. We can sign
         NDA if necessary.
-      image: ../../assets/confidential.svg
+      image: ./confidential.svg
     - id: 4
       title: Secure transaction
       description: Your documents as wells as payment is handled by our secure website
         which has passed the best level of security testing in the industry.
-      image: ../../assets/transaction.svg
+      image: ./transaction.svg
 serviceProcess:
   title: How it works?
   steps:
