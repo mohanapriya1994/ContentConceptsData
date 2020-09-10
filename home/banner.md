@@ -10,7 +10,7 @@ services: [
   {
     id: 2,
     title: "Plagiarism Check",
-    link: "plagiarism_check/plagiarism_correction"
+    link: "plagiarism_check"
   },
   {
     id: 3,
