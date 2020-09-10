@@ -5,28 +5,28 @@ message: Not happy with edit? <span>100% refund without any condition</span>
 features:
   - id: 1
     title: Manuscript Editing
-    link: /services/manuscript_editing
+    link: /services/academic_editing/manuscript_editing
   - id: 2
     title: Thesis Editing
-    link: /services/thesis_editing
+    link: /services/academic_editing/thesis_editing
   - id: 3
     title: Plagiarism Editing
-    link: /services/plagiarism_editing
+    link: /services/plagiarism_check/plagiarism_editing
   - id: 4
     title: Essay Editing
-    link: /services/essay_editing
+    link: /services/academic_editing/essay_editing
   - id: 5
     title: Proposal Editing
-    link: /services/proposal_editing
+    link: /services/academic_editing/proposal_editing
   - title: ESL Editing
     id: 6
-    link: /services/esl_editing
+    link: /services/academic_editing/esl_editing
   - title: Book Editing
     id: 7
-    link: /services/book_editing
+    link: /services/academic_editing/book_editing
   - title: Resume Editing
     id: 8
-    link: /services/resume_editing
+    link: /services/academic_editing/resume_editing
 priceCard:
   pricing:
     title: Starts from
@@ -101,19 +101,16 @@ editingSample:
   samples:
     - id: 1
       title: Copy Editing
-      description: Line by line editing for language, readibility nad technical
-        learning improvement
-      image: ../../assets/substantive_editing.png
+      description: Grammatically correct sentences, appropriate use of words and terminologies
+      image: ./Copy_editing_sample.png
     - id: 2
       title: Substantive Editing
-      description: Line by line editing for language, readibility and technical
-        learning improvement
-      image: ../../assets/substantive_editing.png
+      description: Line by line editing for language, readibility. Overall structure of the paper, tone and section transition
+      image: ./Manuscript_editing_sample_free.png
     - id: 3
       title: Developmental Editing
-      description: Line by line editing for language, readibility nad technical
-        learning improvement
-      image: ../../assets/substantive_editing.png
+      description: Technical review of manuscript by editor + Copy editing, substantive editing features
+      image: ./substantive_editing.png
 editingHighlights:
   title: Highlights of our manuscript editing services
   highlights:
@@ -122,23 +119,23 @@ editingHighlights:
       description: Our manuscript editing fee is one of the best in the industry for
         the level of quality work we offer from our trusted PhD and native
         English editors.
-      image: ../../assets/affordable.svg
+      image: ./affordable.svg
     - id: 2
       title: Superior Support
       description: You can talk to your manuscript editor until you are satisfied with
         our editing service, get your queries answered via email or chat and
         send your manuscript after review from journal editor for further check.
-      image: ../../assets/support.svg
+      image: ./support.svg
     - id: 3
       title: Confidentiality
       description: We ensure your documents are handled with utmost care. We can sign
         NDA if necessary.
-      image: ../../assets/confidential.svg
+      image: ./confidential.svg
     - id: 4
       title: Secure transaction
       description: Your documents as wells as payment is handled by our secure website
         which has passed the best level of security testing in the industry.
-      image: ../../assets/transaction.svg
+      image: ./transaction.svg
 serviceProcess:
   title: How it works?
   steps:
@@ -194,6 +191,6 @@ seo:
     - english language editing service india
 ---
 
-If you are looking for affordable yet top-quality academic editing services, you have reached the right place. Our mission is to prvoide [manuscript editing](/services/manuscript_editing) and proofreading services at affordable price.
+If you are looking for affordable yet top-quality academic editing services, you have reached the right place. Our mission is to prvoide [manuscript editing](/services/academic_editing/manuscript_editing) and proofreading services at affordable price.
 
 When you select us, you will get personalised support, and prompt responses at a quicker pace than others. Here is the list of our Academic Editing Services
