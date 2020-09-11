@@ -113,7 +113,7 @@ editingSample:
       title: Developmental Editing
       description: Technical review of manuscript by editor + Copy editing,
         substantive editing features
-      image: ./substantive_editing.png
+      image: substantive_editing.png
 editingHighlights:
   title: Highlights of our manuscript editing services
   highlights:
