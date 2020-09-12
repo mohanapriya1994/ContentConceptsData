@@ -31,8 +31,8 @@ priceCard:
   pricing:
     title: Starts from
     price:
-      inr: <span>INR 1.50</span>word
-      usd: <span>USD 0.03</span>/word
+      inr: <span>INR 1.50</span>/word
+      usd: <span> $0.025</span>/word
   tagContent: No express fee, quick delivery
   content: Publish with confidence
 editingLevels:
@@ -108,12 +108,12 @@ editingSample:
       title: Substantive Editing
       description: Line by line editing for language, readibility. Overall structure
         of the paper, tone and section transition
-      image: Manuscript_editing_sample_free.png
+      image: ./Manuscript_editing_sample_free.png
     - id: 3
       title: Developmental Editing
       description: Technical review of manuscript by editor + Copy editing,
         substantive editing features
-      image: substantive_editing.png
+      image: ./substantive_editing.png
 editingHighlights:
   title: Highlights of our manuscript editing services
   highlights:
