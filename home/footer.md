@@ -46,29 +46,29 @@ sitemapList:
         link: /services/academic_editing/resume_editing
   - id: 3
     title: Publication Support
-    link: /services/publication_services
+    link: /services/publication_support
     sitemap:
       - id: 1
         title: Journal Selection
-        link: /services/publication_services/journal_selection
+        link: /services/publication_support/journal_selection
       - id: 2
         title: Journal Submission
-        link: /services/publication_services/journal_submission
+        link: /services/publication_support/journal_submission
       - id: 3
         title: Pre-submission Review
-        link: /services/publication_services/presubmission_review
+        link: /services/publication_support/presubmission_review
       - id: 4
         title: Manuscript Re-submission
-        link: /services/publication_services/manuscript_resubmission
+        link: /services/publication_support/manuscript_resubmission
       - id: 5
         title: Illustration & Artwork
-        link: /services/publication_services/illustration_artwork
+        link: /services/publication_support/illustration_artwork
       - id: 6
         title: Manuscript Rewriting
-        link: /services/publication_services/manuscript_rewriting
+        link: /services/publication_support/manuscript_rewriting
       - id: 7
         title: Manuscript Formatting
-        link: /services/publication_services/manuscript_formatting
+        link: /services/publication_support/manuscript_formatting
   - id: 4
     title: Plagiarism Check
     link: /services/plagiarism_check
