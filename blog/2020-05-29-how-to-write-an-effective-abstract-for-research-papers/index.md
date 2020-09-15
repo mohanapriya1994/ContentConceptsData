@@ -1,16 +1,35 @@
 ---
-title: "How to write an effective abstract for research papers?"
-date: 2020-05-29
-author: ContentConcepts
 author_image: ./author.png
+author: ContentConcepts
 bio: Take our word. No-nonsense content solutions
+title: How to write an effective abstract for research papers?
+date: 2020-05-29
 previewImage: ./abstract.png
-excerpt: "A well-written abstract should be reflective of the overall contents of the research article. By skimming through it, the reader should be able to understand the focus of the work and its relevance to their area of interest, thereby determining whether the full text warrants their attention."
+excerpt: A well-written abstract should be reflective of the overall contents of
+  the research article. By skimming through it, the reader should be able to
+  understand the focus of the work and its relevance to their area of interest,
+  thereby determining whether the full text warrants their attention.
 tags:
   - Abstract
   - Manuscript Editing
   - Science Communication
   - Research Paper Writing
+seo:
+  keywords:
+    - manuscript editing service
+    - manuscript proofreading service
+    - manuscript editor
+    - english editing service
+    - english proofreading service
+    - document editing service
+    - document proofreading service
+    - essay editing   service
+    - essay editor
+    - essay proofreading service
+  description: English editing and proofreading services in India.
+    Truly   affordable and top-quality services for manuscript authors and
+    publishers.
+  title: How to write an effective abstract for research papers?
 ---
 
 ![How to write an effective abstract for research papers?](./abstract.png)
