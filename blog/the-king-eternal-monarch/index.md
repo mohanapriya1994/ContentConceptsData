@@ -10,6 +10,22 @@ tags:
   - tkem
   - lmh
   - kdrama
+seo:
+  description: English editing and proofreading services in India.
+    Truly   affordable and top-quality services for manuscript authors and
+    publishers.
+  title: The King Eternal Monarch
+  keywords:
+    - manuscript editing service
+    - manuscript proofreading service
+    - manuscript editor
+    - english editing service
+    - english proofreading service
+    - document editing service
+    - document proofreading service
+    - essay editing   service
+    - essay editor
+    - essay proofreading service
 ---
 In 1994, the **Kingdom of Corea** encounters severe upheaval. The King ([Kwon Yool](https://asianwiki.com/Kwon_Yool "Kwon Yool")) is murdered by his brother Lee Lim ([Lee Jung-Jin](https://asianwiki.com/Lee_Jung-Jin "Lee Jung-Jin")) and the King's son Lee Gon ([Jeong Hyun-Jun](https://asianwiki.com/Jeong_Hyun-Jun_(2011) "Jeong Hyun-Jun (2011)")) is stabbed in the neck, but he survives. The murderous Lee Lim seeks to possess the Manpasikjeok, which is legendary flute that holds supernatural powers. After a mysterious figure appears with a gun, Lee Lim slips away with only half of the now broken flute. The young Lee Gon holds onto a police badge he grabbed from the mysterious figure. The next day, Lee Goon is appointed the next ruler of the Kingdom of Corea.
 
