@@ -1,5 +1,5 @@
 ---
-author_image: ./author.png
+author_image: cc-logo.svg
 author: ContentConcepts
 bio: Take our word. No-nonsense content solutions
 title: Two books that can significantly improve your grammar and writing skills
