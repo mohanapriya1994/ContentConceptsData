@@ -1,17 +1,28 @@
 ---
-title: "Two books that can significantly improve your grammar and writing skills"
-date: 2010-08-05
-author: ContentConcepts
 author_image: ./author.png
+author: ContentConcepts
 bio: Take our word. No-nonsense content solutions
+title: Two books that can significantly improve your grammar and writing skills
+date: 2010-08-05
 previewImage: ./on_writing_well.jpg
-excerpt: "We all have fumbled and continue to when it comes to writing. Be it a simple email or a comprehensive business proposal or a complex project report, we all fret at times."
+excerpt: We all have fumbled and continue to when it comes to writing. Be it a
+  simple email or a comprehensive business proposal or a complex project report,
+  we all fret at times.
 tags:
   - Effective Writing
   - English Writing
   - Business Communication
   - Communication Skills
   - Grammar
+seo:
+  title: Two books that can significantly improve your grammar and writing skills
+  description: English editing and proofreading services in India.
+    Truly   affordable and top-quality services for manuscript authors and
+    publishers.
+  keywords:
+    - manuscript editing service
+    - manuscript proofreading service
+    - manuscript editor
 ---
 
 We all have fumbled and continue to when it comes to writing. Be it a simple email or a comprehensive business proposal or a complex project report, we all fret at times. English language is beautiful but twisty at times and the grammar is beyond comprehension for most of us Indians. Fear not, even the native English speakers find it difficult to write with perfect grammar.
