@@ -1,13 +1,11 @@
 ---
-author_image: cc-logo.svg
-author: ContentConcepts
-bio: Take our word. No-nonsense content solutions
-title: Two books that can significantly improve your grammar and writing skills
+title: "Two books that can significantly improve your grammar and writing skills"
 date: 2010-08-05
+author: ContentConcepts
+author_image: ./author.png
+bio: Take our word. No-nonsense content solutions
 previewImage: ./on_writing_well.jpg
-excerpt: We all have fumbled and continue to when it comes to writing. Be it a
-  simple email or a comprehensive business proposal or a complex project report,
-  we all fret at times.
+excerpt: "We all have fumbled and continue to when it comes to writing. Be it a simple email or a comprehensive business proposal or a complex project report, we all fret at times."
 tags:
   - Effective Writing
   - English Writing
@@ -23,7 +21,7 @@ seo:
     - english proofreading service
     - document editing service
     - document proofreading service
-    - essay editing   service
+    - essay editing service
     - essay editor
     - essay proofreading service
   description: English editing and proofreading services in India. Truly affordable and top-quality services for manuscript authors and publishers.
